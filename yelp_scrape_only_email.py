@@ -95,7 +95,7 @@ def find_emails(domain_name):
 		print 1
 		# SMTP lib setup (use debug level for full output)
 		server = smtplib.SMTP()
-		server.set_debuglevel(1)
+		server.set_debuglevel(0)
 		print 2
 		# SMTP Conversation
 		server.connect(mxRecord)
@@ -146,7 +146,7 @@ if __name__=="__main__":
 		scraped_phone_data = []
 
 		for restaurant_link in restaurant_links:
-			sleep(random.randint(5,20))
+			sleep(random.randint(20,200))
 			restaurant_result = parse_page('https://yelp.com'+restaurant_link)
 			# cursor.execute("INSERT INTO restaurants (name, email, phone, address, city, state, website) VALUES (%s, %s, %s, %s, 'seattle', 'WA', %s)",
 			# 	(restaurant_result['name'],restaurant_result['email'],restaurant_result['phone'],restaurant_result['address'], restaurant_result['website']))
