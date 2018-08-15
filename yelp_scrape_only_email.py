@@ -138,8 +138,8 @@ if __name__=="__main__":
 	
 	args = argparser.parse_args()
 	url = args.url
-	start = args.start
-	end = args.end
+	start = int(args.start)
+	end = int(args.end)
 
 	print 'URL = '+url
 
