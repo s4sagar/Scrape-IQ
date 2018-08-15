@@ -1,0 +1,102 @@
+[
+    {
+        "website": "http://www.zestslc.com/", 
+        "phone": "(801) 433-0589", 
+        "valid_emails": [
+            "manager@zestslc.com"
+        ], 
+        "name": "Zest Kitchen & Bar", 
+        "address": "275 S 200 W Salt Lake City, UT 84101 Downtown"
+    }, 
+    {
+        "website": "https://www.whitehorseslc.com", 
+        "phone": "(801) 363-0137", 
+        "valid_emails": [
+            "info@whitehorseslc.com"
+        ], 
+        "name": "White Horse", 
+        "address": "325 S Main St Salt Lake City, UT 84111 Downtown"
+    }, 
+    {
+        "website": "http://twistslc.com/", 
+        "phone": "(801) 322-3200", 
+        "valid_emails": [
+            "info@twistslc.com", 
+            "contact@twistslc.com"
+        ], 
+        "name": "Twist", 
+        "address": "32 Exchange Pl Salt Lake City, UT 84111 Downtown"
+    }, 
+    {
+        "website": "http://www.utahbayou.com/", 
+        "phone": "(801) 961-8400", 
+        "valid_emails": [
+            "sales@utahbayou.com"
+        ], 
+        "name": "The Bayou", 
+        "address": "645 S State St Salt Lake City, UT 84111 Downtown, Central City"
+    }, 
+    {
+        "website": "http://www.zillasrestaurantandlounge.com", 
+        "phone": "(801) 419-0622", 
+        "valid_emails": [
+            "info@zillasrestaurantandlounge.com"
+        ], 
+        "name": "Zillas", 
+        "address": "2080 W North Temple Salt Lake City, UT 84116 Jordan Meadows"
+    }, 
+    {
+        "website": "http://valtersosteria.com", 
+        "phone": "(801) 521-4563", 
+        "valid_emails": [
+            "info@valtersosteria.com"
+        ], 
+        "name": "Valter\u2019s Osteria", 
+        "address": "173 W Broadway Salt Lake City, UT 84101 Downtown"
+    }, 
+    {
+        "website": "http://robinsnestslc.com/", 
+        "phone": "(801) 466-6378", 
+        "valid_emails": [
+            "info@robinsnestslc.com"
+        ], 
+        "name": "The Robin\u2019s Nest", 
+        "address": "311 S Main St Salt Lake City, UT 84111 Downtown"
+    }, 
+    {
+        "website": "https://www.brugeswaffles.com/locations/downtown/", 
+        "phone": "(801) 363-4444", 
+        "valid_emails": [
+            "info@brugeswaffles.com"
+        ], 
+        "name": "Bruges Waffles & Frites", 
+        "address": "336 W 300th S Salt Lake City, UT 84101 Downtown"
+    }, 
+    {
+        "website": "http://chungasslc.com", 
+        "phone": "(801) 953-1840", 
+        "valid_emails": [
+            "manager@chungasslc.com"
+        ], 
+        "name": "Chungas", 
+        "address": "180 S 900th W Salt Lake City, UT 84104 Poplar Grove"
+    }, 
+    {
+        "website": "http://www.toscanaslc.com", 
+        "phone": "(801) 328-3463", 
+        "valid_emails": [
+            "info@toscanaslc.com"
+        ], 
+        "name": "Cucina Toscana", 
+        "address": "282 S 300th W Salt Lake City, UT 84101 Downtown"
+    }, 
+    {
+        "website": "http://www.caffeniche.com/", 
+        "phone": "(801) 433-3380", 
+        "valid_emails": [
+            "info@caffeniche.com"
+        ], 
+        "name": "Cafe Niche", 
+        "address": "779 E 300th S Salt Lake City, UT 84102 East Central"
+    }
+]

@@ -76,13 +76,15 @@ def find_emails(domain_name):
 		mxRecord = records[0].exchange
 		mxRecord = str(mxRecord)
 	except:
+		print 'MX Failed'
 		try:
 			records = dns.resolver.query('www.'+domain_name, 'MX')
 			mxRecord = records[0].exchange
 			mxRecord = str(mxRecord)
 
 		except:
-			return []
+			print 'DNS Failed'
+			return valid_emails
 
 	try:
 		#Step 3: ping email server
@@ -90,28 +92,37 @@ def find_emails(domain_name):
 
 		# Get local server hostname
 		host = socket.gethostname()
-
+		print 1
 		# SMTP lib setup (use debug level for full output)
 		server = smtplib.SMTP()
-		server.set_debuglevel(0)
-
+		server.set_debuglevel(1)
+		print 2
 		# SMTP Conversation
 		server.connect(mxRecord)
+		print 3
 		server.helo(host)
+		print 4
 		server.mail('me@domain.com')
+		print 5
 		code, message = server.rcpt(str(passall_email))
+		print 6
 		# 250 is Success
 		if code == 250:
+			print 'CATCHALL'
 			return valid_emails
 		else:
 			for i in range(0,7):
+				print '\nTrying '+emails[i]
 				code, message = server.rcpt(str(emails[i]))
 				if code == 250:
 					valid_emails.append(emails[i])
-
 		server.quit()
 	except:
-		return valid_emails
+		print 'SMTP Failed'
+		return valid_emails	
+
+	print valid_emails
+	return valid_emails
 
 if __name__=="__main__":
 	requests.packages.urllib3.disable_warnings()
@@ -124,43 +135,47 @@ if __name__=="__main__":
 	argparser.add_argument('url',help = 'yelp bussiness url')
 	args = argparser.parse_args()
 	url = args.url
-	print url
+	print 'URL = '+url
 
 	# for start in range (1230,3330,30): for Seattle
-	for start in range (300,360,30):
+	for start in range (300,1200,30):
 		restaurant_links = parse_yelp_list_page(url+'&start='+str(start))
 		print restaurant_links
 	
 		scraped_email_data = []
 		scraped_phone_data = []
+
 		for restaurant_link in restaurant_links:
-			sleep(random.randint(1,10))
+			sleep(random.randint(5,20))
 			restaurant_result = parse_page('https://yelp.com'+restaurant_link)
 			# cursor.execute("INSERT INTO restaurants (name, email, phone, address, city, state, website) VALUES (%s, %s, %s, %s, 'seattle', 'WA', %s)",
 			# 	(restaurant_result['name'],restaurant_result['email'],restaurant_result['phone'],restaurant_result['address'], restaurant_result['website']))
-			
+			print '\n Restaurant data: '+json.dumps(restaurant_result)
 			if len(restaurant_result['valid_emails']) > 0:
 				scraped_email_data.append(restaurant_result)
+				print '\nEmails:  '+json.dumps(restaurant_result['valid_emails'])
 			else:
 				scraped_phone_data.append(restaurant_result)
 
 	# scraped_data = parse_page(url)
 	yelp_id = url.split('/')[-1]
+	print 'Yelp ID: '+yelp_id
 	
 	with open("scraped_email_data-%s.json"%(yelp_id),'w') as fp:
-		# json.dump(scraped_email_data,fp,indent=4)
-		for email_obj in scraped_email_data:
-			fp.write(email_obj['name']+'", "'+email_obj['phone']+'", "'+email_obj['address']+'", "'+email_obj['website'])
-			for valid_email in scraped_email_data['valid_emails']:
-				fp.write(', '+valid_email)
-			fp.write('\n')
+		json.dump(scraped_email_data,fp,indent=4)
+		# for email_obj in scraped_email_data:
+		# 	fp.write(email_obj['name']+'", "'+email_obj['phone']+'", "'+email_obj['address']+'", "'+email_obj['website'])
+		# 	json.dump(valid_emails,fp,indent=4)
+		# 	# for valid_email in scraped_email_data['valid_emails']:
+		# 	# 	fp.write(', '+valid_email)
+		# 	fp.write('\n')
 
 	with open("scraped_phone_data-%s.html"%(yelp_id),'w') as fp:
-		fp.write('<html><body><ol>')
+		# fp.write('<html><body><ol>')
 		json.dump(scraped_phone_data,fp,indent=4)
-		for phone_obj in scraped_phone_data:
-			fp.write('<li>'+phone_obj['name']+' , <a href="tel:'+phone_obj['phone']+'">'+phone_obj['phone']+' , '+phone_obj['address']+' , '+phone_obj['website']+'</li>\n')
-		fp.write('</ol></body></html>')
+		# for phone_obj in scraped_phone_data:
+		# 	fp.write('<li>'+phone_obj['name']+' , <a href="tel:'+phone_obj['phone']+'">'+phone_obj['phone']+' , '+phone_obj['address']+' , '+phone_obj['website']+'</li>\n')
+		# fp.write('</ol></body></html>')
 
 	# conn.commit()
 	# cursor.close()
