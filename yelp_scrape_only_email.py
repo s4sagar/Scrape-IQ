@@ -132,7 +132,10 @@ if __name__=="__main__":
 	# cursor = conn.cursor()
 
 	argparser = argparse.ArgumentParser()
-	argparser.add_argument('url','start','end',help = 'yelp bussiness url')
+	argparser.add_argument('url',help = 'yelp bussiness url')
+	argparser.add_argument('start',help = 'starting number of restaurant. Usually 300 for 10th page of Yelp.')
+	argparser.add_argument('end',help = 'ending number of restaurant. Check number of listings in Yelp and give here.')
+	
 	args = argparser.parse_args()
 	url = args.url
 	start = args.start
