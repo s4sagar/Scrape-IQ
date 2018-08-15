@@ -1,0 +1,81 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "https://kokucafemarket.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "9:00 am - 6:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "9:00 am - 6:00 pm"
+        }, 
+        {
+            "Thu": "9:00 am - 6:00 pm"
+        }, 
+        {
+            "Fri": "9:00 am - 6:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 6:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 6:00 pm"
+        }
+    ], 
+    "name": "Koku Cafe + Market", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/koku-cafe-market-seattle?osq=Restaurants", 
+    "longitude": "-122.357069", 
+    "reviews": "9 reviews", 
+    "phone": "(206) 285-1352", 
+    "address": "1417 Queen Anne Ave N Seattle, WA 98109 b/t Galer St & Lee St Queen Anne", 
+    "latitude": "47.631910", 
+    "ratings_histogram": [
+        {
+            "5 stars": "9"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Japanese,Cafes"
+}

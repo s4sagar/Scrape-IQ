@@ -1,0 +1,3736 @@
+[
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Breakfast, Brunch, Lunch"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Hipster, Casual, Trendy"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Happy Hour": "Yes"
+            }, 
+            {
+                "Coat Check": "No"
+            }, 
+            {
+                "Smoking": "Outdoor Area / Patio Only"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Has Pool Table": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.berkeley-socialclub.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "9:00 am - 2:30 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Tue": "9:00 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "9:00 am - 2:30 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Thu": "9:00 am - 2:30 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Fri": "9:00 am - 2:30 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sat": "8:00 am - 3:00 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sun": "8:00 am - 3:00 pm5:00 pm - 10:00 pm"
+            }
+        ], 
+        "name": "Berkeley Social Club", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/berkeley-social-club-berkeley?osq=Restaurants", 
+        "longitude": "-122.269472", 
+        "reviews": "725 reviews", 
+        "phone": "(510) 900-5858", 
+        "address": "2050 University Ave Berkeley, CA 94704 b/t Milvia St & Shattuck Ave Downtown Berkeley", 
+        "latitude": "37.871825", 
+        "ratings_histogram": [
+            {
+                "5 stars": "268"
+            }, 
+            {
+                "4 stars": "276"
+            }, 
+            {
+                "3 stars": "114"
+            }, 
+            {
+                "2 stars": "37"
+            }, 
+            {
+                "1 star": "30"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "93 out of 100", 
+        "category": "Breakfast & Brunch,Korean,Bars"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "No"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Garage, Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Trendy"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Best Nights": "Sun"
+            }, 
+            {
+                "Smoking": "No"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Has Pool Table": "No"
+            }
+        ], 
+        "ratings": "3.5", 
+        "website": "http://www.gatherrestaurant.com", 
+        "info_email": "info@gatherrestaurant.com", 
+        "working_hours": [
+            {
+                "Mon": "11:30 am - 2:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Tue": "11:30 am - 2:00 pm5:00 pm - 9:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "11:30 am - 2:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Thu": "11:30 am - 2:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Fri": "11:30 am - 2:00 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sat": "10:00 am - 2:00 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sun": "10:00 am - 2:00 pm5:00 pm - 9:00 pm"
+            }
+        ], 
+        "name": "Gather", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/gather-berkeley?osq=Restaurants", 
+        "longitude": "-122.266114", 
+        "reviews": "2052 reviews", 
+        "phone": "(510) 809-0400", 
+        "address": "2200 Oxford St Berkeley, CA 94704 b/t Allston Way & Fulton St Downtown Berkeley", 
+        "latitude": "37.869478", 
+        "ratings_histogram": [
+            {
+                "5 stars": "635"
+            }, 
+            {
+                "4 stars": "741"
+            }, 
+            {
+                "3 stars": "320"
+            }, 
+            {
+                "2 stars": "235"
+            }, 
+            {
+                "1 star": "121"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "85 out of 100", 
+        "category": "American (New),Breakfast & Brunch,Bars"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Alcohol": "No"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Dogs Allowed": "Yes"
+            }, 
+            {
+                "Waiter Service": "No"
+            }, 
+            {
+                "Caters": "No"
+            }
+        ], 
+        "ratings": "4.5", 
+        "website": "", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "12:00 pm - 11:30 pm"
+            }, 
+            {
+                "Tue": "12:00 pm - 11:30 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "12:00 pm - 11:30 pm"
+            }, 
+            {
+                "Thu": "12:00 pm - 11:30 pm"
+            }, 
+            {
+                "Fri": "12:00 pm - 11:30 pm"
+            }, 
+            {
+                "Sat": "12:00 pm - 11:30 pm"
+            }, 
+            {
+                "Sun": "12:00 pm - 11:30 pm"
+            }
+        ], 
+        "name": "Sushi Go Go", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/sushi-go-go-berkeley-3?osq=Restaurants", 
+        "longitude": "-122.266465", 
+        "reviews": "20 reviews", 
+        "phone": "(510) 484-1133", 
+        "address": "2176 Kittredge St Berkeley, CA 94704 b/t Shattuck Ave & Fulton St Downtown Berkeley", 
+        "latitude": "37.868386", 
+        "ratings_histogram": [
+            {
+                "5 stars": "15"
+            }, 
+            {
+                "4 stars": "3"
+            }, 
+            {
+                "3 stars": "2"
+            }, 
+            {
+                "2 stars": "0"
+            }, 
+            {
+                "1 star": "0"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "", 
+        "category": "Japanese,Food Delivery Services"
+    }, 
+    {
+        "info": [
+            {
+                "Has Dairy-free Options": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Caters": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.greatchinaberkeley.com", 
+        "info_email": "info@greatchinaberkeley.com", 
+        "working_hours": [
+            {
+                "Mon": "11:30 am - 2:30 pm5:30 pm - 9:00 pm"
+            }, 
+            {
+                "Tue": "Closed"
+            }, 
+            {
+                "Wed": "11:30 am - 2:30 pm5:30 pm - 9:00 pm"
+            }, 
+            {
+                "Thu": "11:30 am - 2:30 pm5:30 pm - 9:00 pm"
+            }, 
+            {
+                "Fri": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+            }, 
+            {
+                "Sat": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+            }, 
+            {
+                "Sun": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+            }
+        ], 
+        "name": "Great China", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/great-china-berkeley?osq=Restaurants", 
+        "longitude": "-122.266158", 
+        "reviews": "1830 reviews", 
+        "phone": "(510) 843-7996", 
+        "address": "2190 Bancroft Way Berkeley, CA 94704 b/t Shattuck Ave & Fulton St Downtown Berkeley", 
+        "latitude": "37.867682", 
+        "ratings_histogram": [
+            {
+                "5 stars": "679"
+            }, 
+            {
+                "4 stars": "651"
+            }, 
+            {
+                "3 stars": "249"
+            }, 
+            {
+                "2 stars": "121"
+            }, 
+            {
+                "1 star": "130"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "92 out of 100", 
+        "category": "Chinese"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegans": "Yes"
+            }, 
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Good For": "Brunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Trendy"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Music": "Background"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Happy Hour": "Yes"
+            }, 
+            {
+                "Best Nights": "Fri, Sat, Sun"
+            }, 
+            {
+                "Coat Check": "No"
+            }, 
+            {
+                "Smoking": "No"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Has Pool Table": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "https://www.tigerlilyberkeley.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "4:00 pm - 10:00 pm"
+            }, 
+            {
+                "Tue": "4:00 pm - 10:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "4:00 pm - 10:00 pm"
+            }, 
+            {
+                "Thu": "4:00 pm - 10:00 pm"
+            }, 
+            {
+                "Fri": "4:00 pm - 11:00 pm"
+            }, 
+            {
+                "Sat": "10:00 am - 2:30 pm4:00 pm - 11:00 pm"
+            }, 
+            {
+                "Sun": "10:00 am - 2:30 pm4:00 pm - 9:00 pm"
+            }
+        ], 
+        "name": "Tigerlily Berkeley", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/tigerlily-berkeley-berkeley?osq=Restaurants", 
+        "longitude": "-122.268991", 
+        "reviews": "467 reviews", 
+        "phone": "(510) 540-7900", 
+        "address": "1513 Shattuck Ave Berkeley, CA 94709 b/t Cedar St & Vine St North Berkeley, Gourmet Ghetto", 
+        "latitude": "37.879740", 
+        "ratings_histogram": [
+            {
+                "5 stars": "202"
+            }, 
+            {
+                "4 stars": "165"
+            }, 
+            {
+                "3 stars": "58"
+            }, 
+            {
+                "2 stars": "27"
+            }, 
+            {
+                "1 star": "15"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "100 out of 100", 
+        "category": "Bars,Breakfast & Brunch,Indian"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://angelineskitchen.com/", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "5:30 pm - 9:00 pm"
+            }, 
+            {
+                "Tue": "11:30 am - 9:00 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:30 am - 9:00 pm"
+            }, 
+            {
+                "Thu": "11:30 am - 9:00 pm"
+            }, 
+            {
+                "Fri": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Sat": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Sun": "11:30 am - 9:00 pm"
+            }
+        ], 
+        "name": "Angeline\u2019s Louisiana Kitchen", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/angelines-louisiana-kitchen-berkeley?osq=Restaurants", 
+        "longitude": "-122.267549", 
+        "reviews": "3849 reviews", 
+        "phone": "(510) 548-6900", 
+        "address": "2261 Shattuck Ave Berkeley, CA 94704 b/t Allston Way & Kittredge St Downtown Berkeley", 
+        "latitude": "37.868245", 
+        "ratings_histogram": [
+            {
+                "5 stars": "1575"
+            }, 
+            {
+                "4 stars": "1396"
+            }, 
+            {
+                "3 stars": "524"
+            }, 
+            {
+                "2 stars": "246"
+            }, 
+            {
+                "1 star": "108"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "92 out of 100", 
+        "category": "Cajun/Creole,Southern,Seafood"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "No"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Noise Level": "Loud"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.5", 
+        "website": "http://woodtavern.net/", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Thu": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Fri": "11:30 am - 10:30 pm"
+            }, 
+            {
+                "Sat": "11:30 am - 10:30 pm"
+            }, 
+            {
+                "Sun": "5:00 pm - 9:00 pm"
+            }
+        ], 
+        "name": "Wood Tavern", 
+        "claimed_status": "", 
+        "url": "https://yelp.com/biz/wood-tavern-oakland?osq=Restaurants", 
+        "longitude": "-122.252614", 
+        "reviews": "1756 reviews", 
+        "phone": "(510) 654-6607", 
+        "address": "6317 College Ave Oakland, CA 94618 at 63rd St Rockridge, Elmwood, North Oakland", 
+        "latitude": "37.850677", 
+        "ratings_histogram": [
+            {
+                "5 stars": "927"
+            }, 
+            {
+                "4 stars": "533"
+            }, 
+            {
+                "3 stars": "177"
+            }, 
+            {
+                "2 stars": "80"
+            }, 
+            {
+                "1 star": "39"
+            }
+        ], 
+        "price_range": "$31-60", 
+        "health_rating": "", 
+        "category": "American (New)"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Breakfast, Brunch"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.lanoterestaurant.com/", 
+        "info_email": "info@lanoterestaurant.com", 
+        "working_hours": [
+            {
+                "Mon": "8:00 am - 2:30 pm"
+            }, 
+            {
+                "Tue": "8:00 am - 2:30 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "8:00 am - 2:30 pm"
+            }, 
+            {
+                "Thu": "8:00 am - 2:30 pm6:00 pm - 10:00 pm"
+            }, 
+            {
+                "Fri": "8:00 am - 2:30 pm6:00 pm - 6:15 pm"
+            }, 
+            {
+                "Sat": "8:00 am - 3:00 pm6:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sun": "8:00 am - 3:00 pm"
+            }, 
+            {
+                "Thu 11/22/2018": "Closed"
+            }, 
+            {
+                "Tue 12/25/2018": "Closed"
+            }
+        ], 
+        "name": "La Note", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/la-note-berkeley-5?osq=Restaurants", 
+        "longitude": "-122.267342", 
+        "reviews": "3202 reviews", 
+        "phone": "(510) 843-1525", 
+        "address": "2377 Shattuck Ave Berkeley, CA 94704 b/t Channing Way & Durant Ave Downtown Berkeley", 
+        "latitude": "37.866214", 
+        "ratings_histogram": [
+            {
+                "5 stars": "1071"
+            }, 
+            {
+                "4 stars": "1222"
+            }, 
+            {
+                "3 stars": "480"
+            }, 
+            {
+                "2 stars": "256"
+            }, 
+            {
+                "1 star": "173"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "68 out of 100", 
+        "category": "French,Breakfast & Brunch"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner, Late Night"
+            }, 
+            {
+                "Parking": "Garage, Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual, Trendy"
+            }, 
+            {
+                "Noise Level": "Loud"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Happy Hour": "Yes"
+            }, 
+            {
+                "Best Nights": "Tue, Fri, Sat"
+            }, 
+            {
+                "Coat Check": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Drive-Thru": "No"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Has Pool Table": "No"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://eurekarestaurantgroup.com/blog/locations/berkeley/", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 12:00 am"
+            }, 
+            {
+                "Tue": "11:00 am - 12:00 am\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:00 am - 12:00 am"
+            }, 
+            {
+                "Thu": "11:00 am - 12:00 am"
+            }, 
+            {
+                "Fri": "11:00 am - 1:00 am"
+            }, 
+            {
+                "Sat": "11:00 am - 1:00 am"
+            }, 
+            {
+                "Sun": "11:00 am - 12:00 am"
+            }
+        ], 
+        "name": "Eureka!", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/eureka-berkeley-3?osq=Restaurants", 
+        "longitude": "-122.269000", 
+        "reviews": "1479 reviews", 
+        "phone": "(510) 809-8282", 
+        "address": "2068 Center St Berkeley, CA 94704 b/t Milvia St & Shattuck Ave Downtown Berkeley", 
+        "latitude": "37.869939", 
+        "ratings_histogram": [
+            {
+                "5 stars": "478"
+            }, 
+            {
+                "4 stars": "599"
+            }, 
+            {
+                "3 stars": "186"
+            }, 
+            {
+                "2 stars": "123"
+            }, 
+            {
+                "1 star": "93"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "86 out of 100", 
+        "category": "Burgers,Bars,American (New)"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Happy Hour": "No"
+            }, 
+            {
+                "Coat Check": "No"
+            }, 
+            {
+                "Smoking": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Has Pool Table": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://sahaberkeley.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "Closed"
+            }, 
+            {
+                "Tue": "5:30 pm - 9:30 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "5:30 pm - 9:30 pm"
+            }, 
+            {
+                "Thu": "5:30 pm - 10:00 pm"
+            }, 
+            {
+                "Fri": "5:30 pm - 10:30 pm"
+            }, 
+            {
+                "Sat": "5:30 pm - 10:30 pm"
+            }, 
+            {
+                "Sun": "5:30 pm - 9:00 pm"
+            }
+        ], 
+        "name": "Saha", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/saha-berkeley?osq=Restaurants", 
+        "longitude": "-122.267412", 
+        "reviews": "948 reviews", 
+        "phone": "(510) 900-2457", 
+        "address": "2451 Shattuck Ave Berkeley, CA 94704 b/t Haste St & Dwight Way Downtown Berkeley", 
+        "latitude": "37.864894", 
+        "ratings_histogram": [
+            {
+                "5 stars": "457"
+            }, 
+            {
+                "4 stars": "307"
+            }, 
+            {
+                "3 stars": "107"
+            }, 
+            {
+                "2 stars": "39"
+            }, 
+            {
+                "1 star": "38"
+            }
+        ], 
+        "price_range": "$31-60", 
+        "health_rating": "86 out of 100", 
+        "category": "Middle Eastern,Bars"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "No"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "No"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.5", 
+        "website": "http://www.kirakuberkeley.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "Closed"
+            }, 
+            {
+                "Tue": "5:30 pm - 10:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "5:30 pm - 10:00 pm"
+            }, 
+            {
+                "Thu": "5:30 pm - 10:00 pm"
+            }, 
+            {
+                "Fri": "5:30 pm - 11:00 pm"
+            }, 
+            {
+                "Sat": "5:30 pm - 11:00 pm"
+            }, 
+            {
+                "Sun": "5:30 pm - 9:00 pm"
+            }
+        ], 
+        "name": "Kiraku", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/kiraku-berkeley?osq=Restaurants", 
+        "longitude": "-122.258976", 
+        "reviews": "881 reviews", 
+        "phone": "(510) 848-2758", 
+        "address": "2566B Telegraph Ave Berkeley, CA 94704 b/t Blake St & Parker St", 
+        "latitude": "37.863683", 
+        "ratings_histogram": [
+            {
+                "5 stars": "520"
+            }, 
+            {
+                "4 stars": "242"
+            }, 
+            {
+                "3 stars": "67"
+            }, 
+            {
+                "2 stars": "25"
+            }, 
+            {
+                "1 star": "27"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "91 out of 100", 
+        "category": "Japanese,Tapas/Small Plates,Tapas Bars"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Alcohol": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.duckduckchickencafe.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Thu": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Fri": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Sat": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Sun": "11:00 am - 10:00 pm"
+            }
+        ], 
+        "name": "DDC Cafe", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/ddc-cafe-berkeley-2?osq=Restaurants", 
+        "longitude": "-122.267493", 
+        "reviews": "36 reviews", 
+        "phone": "(510) 981-1800", 
+        "address": "2017 Shattuck Ave Berkeley, CA 94704 Downtown Berkeley", 
+        "latitude": "37.871795", 
+        "ratings_histogram": [
+            {
+                "5 stars": "20"
+            }, 
+            {
+                "4 stars": "6"
+            }, 
+            {
+                "3 stars": "4"
+            }, 
+            {
+                "2 stars": "4"
+            }, 
+            {
+                "1 star": "2"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "", 
+        "category": "Chinese,Hong Kong Style Cafe"
+    }, 
+    {
+        "info": [
+            {
+                "Has Dairy-free Options": "Yes"
+            }, 
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "Yes"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Waiter Service": "No"
+            }, 
+            {
+                "Caters": "No"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://simplybowl.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 3:30 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Tue": "11:00 am - 3:30 pm5:00 pm - 9:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "11:00 am - 3:30 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Thu": "11:00 am - 3:30 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Fri": "11:00 am - 3:30 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Sat": "11:00 am - 3:30 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Sun": "11:00 am - 3:30 pm5:00 pm - 9:00 pm"
+            }
+        ], 
+        "name": "Simply Bowl", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/simply-bowl-berkeley?osq=Restaurants", 
+        "longitude": "-122.267118", 
+        "reviews": "491 reviews", 
+        "phone": "(510) 647-9494", 
+        "address": "2156 University Ave Berkeley, CA 94704 b/t Oxford St & West Entrance Downtown Berkeley", 
+        "latitude": "37.872087", 
+        "ratings_histogram": [
+            {
+                "5 stars": "208"
+            }, 
+            {
+                "4 stars": "165"
+            }, 
+            {
+                "3 stars": "77"
+            }, 
+            {
+                "2 stars": "29"
+            }, 
+            {
+                "1 star": "12"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "", 
+        "category": "Japanese,Asian Fusion,Poke"
+    }, 
+    {
+        "info": [
+            {
+                "Has Kosher Options": "Yes"
+            }, 
+            {
+                "Has Gluten-free Options": "Yes"
+            }, 
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Has Soy-free Options": "Yes"
+            }, 
+            {
+                "Liked by Vegans": "Yes"
+            }, 
+            {
+                "Has Dairy-free Options": "Yes"
+            }, 
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "Yes"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Brunch, Lunch"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Hipster, Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Dogs Allowed": "Yes"
+            }, 
+            {
+                "Waiter Service": "No"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.5", 
+        "website": "http://www.thebutchersveganson.com", 
+        "info_email": "info@thebutchersveganson.com", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 8:00 pm"
+            }, 
+            {
+                "Tue": "11:00 am - 3:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "11:00 am - 3:00 pm"
+            }, 
+            {
+                "Thu": "11:00 am - 8:00 pm"
+            }, 
+            {
+                "Fri": "11:00 am - 8:00 pm"
+            }, 
+            {
+                "Sat": "9:00 am - 5:00 pm"
+            }, 
+            {
+                "Sun": "9:00 am - 5:00 pm"
+            }
+        ], 
+        "name": "The Butchers Son", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/the-butchers-son-berkeley?osq=Restaurants", 
+        "longitude": "-122.272239", 
+        "reviews": "826 reviews", 
+        "phone": "(510) 984-0818", 
+        "address": "1954 University Ave Berkeley, CA 94704 b/t Milvia St & Bonita Ave Downtown Berkeley", 
+        "latitude": "37.871881", 
+        "ratings_histogram": [
+            {
+                "5 stars": "549"
+            }, 
+            {
+                "4 stars": "132"
+            }, 
+            {
+                "3 stars": "86"
+            }, 
+            {
+                "2 stars": "35"
+            }, 
+            {
+                "1 star": "24"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "97 out of 100", 
+        "category": "Vegan,Sandwiches"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "Yes"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.tossnoodlebar.com", 
+        "info_email": "info@tossnoodlebar.com", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Thu": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Fri": "11:00 am - 11:00 pm"
+            }, 
+            {
+                "Sat": "11:00 am - 11:00 pm"
+            }, 
+            {
+                "Sun": "11:00 am - 10:00 pm"
+            }
+        ], 
+        "name": "Toss Noodle Bar", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/toss-noodle-bar-berkeley?osq=Restaurants", 
+        "longitude": "-122.267972", 
+        "reviews": "867 reviews", 
+        "phone": "(510) 845-8677", 
+        "address": "2272 Shattuck Ave Berkeley, CA 94704 b/t Allston Way & Kittredge St Downtown Berkeley", 
+        "latitude": "37.868133", 
+        "ratings_histogram": [
+            {
+                "5 stars": "259"
+            }, 
+            {
+                "4 stars": "367"
+            }, 
+            {
+                "3 stars": "158"
+            }, 
+            {
+                "2 stars": "51"
+            }, 
+            {
+                "1 star": "32"
+            }
+        ], 
+        "price_range": "Under $10", 
+        "health_rating": "93 out of 100", 
+        "category": "Asian Fusion,Thai,Noodles"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Garage, Street, Private Lot"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 3:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Tue": "11:00 am - 3:00 pm5:00 pm - 9:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "11:00 am - 3:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Thu": "11:00 am - 3:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Fri": "11:00 am - 3:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Sat": "11:00 am - 3:00 pm5:00 pm - 9:00 pm"
+            }, 
+            {
+                "Sun": "Closed"
+            }
+        ], 
+        "name": "Tharaphu Burmese Street Food", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/tharaphu-burmese-street-food-berkeley?osq=Restaurants", 
+        "longitude": "-122.267555", 
+        "reviews": "221 reviews", 
+        "phone": "(510) 356-4860", 
+        "address": "2037 Shattuck Ave Berkeley, CA 94704 Downtown Berkeley", 
+        "latitude": "37.871468", 
+        "ratings_histogram": [
+            {
+                "5 stars": "71"
+            }, 
+            {
+                "4 stars": "71"
+            }, 
+            {
+                "3 stars": "48"
+            }, 
+            {
+                "2 stars": "19"
+            }, 
+            {
+                "1 star": "12"
+            }
+        ], 
+        "price_range": "Under $10", 
+        "health_rating": "100 out of 100", 
+        "category": "Burmese,Soup,Noodles"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.LuciasBerkeley.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "Closed"
+            }, 
+            {
+                "Tue": "5:00 pm - 9:15 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "5:00 pm - 9:15 pm"
+            }, 
+            {
+                "Thu": "5:00 pm - 9:15 pm"
+            }, 
+            {
+                "Fri": "5:00 pm - 10:15 pm"
+            }, 
+            {
+                "Sat": "10:30 am - 2:00 pm5:00 pm - 10:15 pm"
+            }, 
+            {
+                "Sun": "10:30 am - 2:00 pm5:00 pm - 9:15 pm"
+            }
+        ], 
+        "name": "Lucia\u2019s Berkeley", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/lucias-berkeley-berkeley-6?osq=Restaurants", 
+        "longitude": "-122.268694", 
+        "reviews": "217 reviews", 
+        "phone": "(510) 225-9467", 
+        "address": "2016 Shattuck Ave Berkeley, CA 94704 Downtown Berkeley", 
+        "latitude": "37.871635", 
+        "ratings_histogram": [
+            {
+                "5 stars": "128"
+            }, 
+            {
+                "4 stars": "40"
+            }, 
+            {
+                "3 stars": "19"
+            }, 
+            {
+                "2 stars": "14"
+            }, 
+            {
+                "1 star": "16"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "100 out of 100", 
+        "category": "Pizza,Italian,Breakfast & Brunch"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "No"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Trendy"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Music": "Background"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Happy Hour": "Yes"
+            }, 
+            {
+                "Best Nights": "Fri, Sat, Sun"
+            }, 
+            {
+                "Coat Check": "No"
+            }, 
+            {
+                "Smoking": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.lamarchaberkeley.com", 
+        "info_email": "info@lamarchaberkeley.com", 
+        "working_hours": [
+            {
+                "Mon": "4:00 pm - 12:00 am"
+            }, 
+            {
+                "Tue": "4:00 pm - 12:00 am\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "4:00 pm - 12:00 am"
+            }, 
+            {
+                "Thu": "4:00 pm - 12:00 am"
+            }, 
+            {
+                "Fri": "4:00 pm - 12:00 am"
+            }, 
+            {
+                "Sat": "11:00 am - 2:00 pm4:00 pm - 12:00 am"
+            }, 
+            {
+                "Sun": "11:00 am - 2:00 pm4:00 pm - 12:00 am"
+            }
+        ], 
+        "name": "La Marcha Tapas Bar", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/la-marcha-tapas-bar-berkeley?osq=Restaurants", 
+        "longitude": "-122.292347", 
+        "reviews": "534 reviews", 
+        "phone": "(510) 647-9525", 
+        "address": "2026 San Pablo Ave Berkeley, CA 94702 b/t University Ave & Addison St West Berkeley", 
+        "latitude": "37.868615", 
+        "ratings_histogram": [
+            {
+                "5 stars": "269"
+            }, 
+            {
+                "4 stars": "144"
+            }, 
+            {
+                "3 stars": "51"
+            }, 
+            {
+                "2 stars": "33"
+            }, 
+            {
+                "1 star": "37"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "100 out of 100", 
+        "category": "Spanish,Tapas Bars,Wine Bars"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "No"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Good For": "Lunch"
+            }, 
+            {
+                "Wheelchair Accessible": "No"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Alcohol": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Waiter Service": "No"
+            }, 
+            {
+                "Good for Working": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "https://www.tammyschickeninwaffles.com/locations-berkeley", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "8:00 am - 8:30 pm"
+            }, 
+            {
+                "Tue": "8:00 am - 8:30 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "8:00 am - 8:30 pm"
+            }, 
+            {
+                "Thu": "8:00 am - 8:30 pm"
+            }, 
+            {
+                "Fri": "8:00 am - 10:00 pm"
+            }, 
+            {
+                "Sat": "8:00 am - 10:00 pm"
+            }, 
+            {
+                "Sun": "8:00 am - 8:30 pm"
+            }, 
+            {
+                "Thu 11/22/2018": "Closed"
+            }, 
+            {
+                "Mon 12/24/2018": "Closed"
+            }, 
+            {
+                "Tue 12/25/2018": "Closed"
+            }
+        ], 
+        "name": "Tammy\u2019s Chicken In Waffles", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/tammys-chicken-in-waffles-berkeley?osq=Restaurants", 
+        "longitude": "-122.259890", 
+        "reviews": "39 reviews", 
+        "phone": "(510) 529-4266", 
+        "address": "2466 Bancroft Way Berkeley, CA 94704 b/t Telegraph Ave & Dana St Telegraph Ave", 
+        "latitude": "37.868352", 
+        "ratings_histogram": [
+            {
+                "5 stars": "24"
+            }, 
+            {
+                "4 stars": "6"
+            }, 
+            {
+                "3 stars": "5"
+            }, 
+            {
+                "2 stars": "1"
+            }, 
+            {
+                "1 star": "3"
+            }
+        ], 
+        "price_range": "Under $10", 
+        "health_rating": "100 out of 100", 
+        "category": "Waffles,Coffee & Tea"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Happy Hour": "Yes"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "Yes"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://longbranchberkeley.com/", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "Closed"
+            }, 
+            {
+                "Tue": "4:00 pm - 12:00 am\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "4:00 pm - 12:00 am"
+            }, 
+            {
+                "Thu": "4:00 pm - 12:00 am"
+            }, 
+            {
+                "Fri": "4:00 pm - 1:30 am"
+            }, 
+            {
+                "Sat": "10:00 am - 1:30 am"
+            }, 
+            {
+                "Sun": "10:00 am - 11:00 pm"
+            }
+        ], 
+        "name": "Longbranch", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/longbranch-berkeley?osq=Restaurants", 
+        "longitude": "-122.289642", 
+        "reviews": "319 reviews", 
+        "phone": "(510) 984-0518", 
+        "address": "2512 San Pablo Ave Berkeley, CA 94702 b/t Blake St & Dwight Way West Berkeley", 
+        "latitude": "37.860614", 
+        "ratings_histogram": [
+            {
+                "5 stars": "152"
+            }, 
+            {
+                "4 stars": "101"
+            }, 
+            {
+                "3 stars": "37"
+            }, 
+            {
+                "2 stars": "14"
+            }, 
+            {
+                "1 star": "15"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "100 out of 100", 
+        "category": "American (New),Gastropubs,Bars"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegans": "Yes"
+            }, 
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "Yes"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Thu": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Fri": "11:00 am - 10:00 pm"
+            }, 
+            {
+                "Sat": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Sun": "11:30 am - 10:00 pm"
+            }
+        ], 
+        "name": "Imm Thai Street Food", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/imm-thai-street-food-berkeley?osq=Restaurants", 
+        "longitude": "-122.269122", 
+        "reviews": "836 reviews", 
+        "phone": "(510) 898-1123", 
+        "address": "2068 University Ave Berkeley, CA 94704 b/t Milvia St & Shattuck Ave Downtown Berkeley", 
+        "latitude": "37.871856", 
+        "ratings_histogram": [
+            {
+                "5 stars": "312"
+            }, 
+            {
+                "4 stars": "313"
+            }, 
+            {
+                "3 stars": "122"
+            }, 
+            {
+                "2 stars": "49"
+            }, 
+            {
+                "1 star": "40"
+            }
+        ], 
+        "price_range": "Under $10", 
+        "health_rating": "100 out of 100", 
+        "category": "Thai"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Ambience": "Hipster"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "No"
+            }
+        ], 
+        "ratings": "4.5", 
+        "website": "http://konousa.com", 
+        "info_email": "info@konousa.com", 
+        "working_hours": [
+            {
+                "Mon": "11:00 am - 11:00 pm"
+            }, 
+            {
+                "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:00 am - 11:00 pm"
+            }, 
+            {
+                "Thu": "11:00 am - 11:00 pm"
+            }, 
+            {
+                "Fri": "11:00 am - 11:00 pm"
+            }, 
+            {
+                "Sat": "11:00 am - 11:00 pm"
+            }, 
+            {
+                "Sun": "11:00 am - 11:00 pm"
+            }
+        ], 
+        "name": "KONO PIZZA", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/kono-pizza-berkeley?osq=Restaurants", 
+        "longitude": "-122.266334", 
+        "reviews": "27 reviews", 
+        "phone": "(510) 545-8003", 
+        "address": "2282 Fulton St Berkeley, CA 94704 b/t Bancroft Way & Kittredge St Downtown Berkeley", 
+        "latitude": "37.868178", 
+        "ratings_histogram": [
+            {
+                "5 stars": "17"
+            }, 
+            {
+                "4 stars": "6"
+            }, 
+            {
+                "3 stars": "3"
+            }, 
+            {
+                "2 stars": "1"
+            }, 
+            {
+                "1 star": "0"
+            }
+        ], 
+        "price_range": "Under $10", 
+        "health_rating": "", 
+        "category": "Pizza,Desserts"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Good For": "Lunch"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Has TV": "No"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.comalnextdoor.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:30 am - 9:00 pm"
+            }, 
+            {
+                "Tue": "11:30 am - 9:00 pm\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:30 am - 9:00 pm"
+            }, 
+            {
+                "Thu": "11:30 am - 9:00 pm"
+            }, 
+            {
+                "Fri": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Sat": "11:30 am - 10:00 pm"
+            }, 
+            {
+                "Sun": "11:30 am - 9:00 pm"
+            }
+        ], 
+        "name": "Comal Next Door", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/comal-next-door-berkeley-2?osq=Restaurants", 
+        "longitude": "-122.268497", 
+        "reviews": "42 reviews", 
+        "phone": "(510) 422-6625", 
+        "address": "2024 Shattuck Ave Berkeley, CA 94704 Downtown Berkeley", 
+        "latitude": "37.871511", 
+        "ratings_histogram": [
+            {
+                "5 stars": "17"
+            }, 
+            {
+                "4 stars": "17"
+            }, 
+            {
+                "3 stars": "3"
+            }, 
+            {
+                "2 stars": "5"
+            }, 
+            {
+                "1 star": "0"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "100 out of 100", 
+        "category": "Mexican"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegans": "Yes"
+            }, 
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Loud"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.jupiterbeer.com/", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:30 am - 12:30 am"
+            }, 
+            {
+                "Tue": "11:30 am - 12:30 am\n        \n                Open now"
+            }, 
+            {
+                "Wed": "11:30 am - 12:30 am"
+            }, 
+            {
+                "Thu": "11:30 am - 12:30 am"
+            }, 
+            {
+                "Fri": "11:30 am - 1:30 am"
+            }, 
+            {
+                "Sat": "12:00 pm - 1:30 am"
+            }, 
+            {
+                "Sun": "12:00 pm - 11:30 pm"
+            }
+        ], 
+        "name": "Jupiter", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/jupiter-berkeley?osq=Restaurants", 
+        "longitude": "-122.267582", 
+        "reviews": "2913 reviews", 
+        "phone": "(510) 843-8277", 
+        "address": "2181 Shattuck Ave Berkeley, CA 94704 at Allston Way Downtown Berkeley", 
+        "latitude": "37.869801", 
+        "ratings_histogram": [
+            {
+                "5 stars": "876"
+            }, 
+            {
+                "4 stars": "1300"
+            }, 
+            {
+                "3 stars": "443"
+            }, 
+            {
+                "2 stars": "160"
+            }, 
+            {
+                "1 star": "134"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "87 out of 100", 
+        "category": "Pizza,Breweries,Chicken Wings"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "No"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Beer & Wine Only"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.musashiofberkeley.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "Closed"
+            }, 
+            {
+                "Tue": "5:30 pm - 9:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "5:30 pm - 9:00 pm"
+            }, 
+            {
+                "Thu": "5:30 pm - 9:00 pm"
+            }, 
+            {
+                "Fri": "5:30 pm - 9:30 pm"
+            }, 
+            {
+                "Sat": "5:30 pm - 9:30 pm"
+            }, 
+            {
+                "Sun": "Closed"
+            }
+        ], 
+        "name": "Musashi", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/musashi-berkeley?osq=Restaurants", 
+        "longitude": "-122.266408", 
+        "reviews": "343 reviews", 
+        "phone": "(510) 843-2017", 
+        "address": "2126 Dwight Way Berkeley, CA 94704 b/t Shattuck Ave & Fulton St Downtown Berkeley", 
+        "latitude": "37.863884", 
+        "ratings_histogram": [
+            {
+                "5 stars": "137"
+            }, 
+            {
+                "4 stars": "117"
+            }, 
+            {
+                "3 stars": "43"
+            }, 
+            {
+                "2 stars": "23"
+            }, 
+            {
+                "1 star": "23"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "", 
+        "category": "Japanese,Sushi Bars"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Trendy"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Outdoor Seating": "Yes"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://osmanthus.business.site", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "Closed"
+            }, 
+            {
+                "Tue": "11:30 am - 2:30 pm5:00 pm - 9:30 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+            }, 
+            {
+                "Thu": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+            }, 
+            {
+                "Fri": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sat": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sun": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+            }
+        ], 
+        "name": "Osmanthus", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/osmanthus-oakland?osq=Restaurants", 
+        "longitude": "-122.252158", 
+        "reviews": "386 reviews", 
+        "phone": "(510) 923-1233", 
+        "address": "6048 College Ave Oakland, CA 94618 b/t Florio St & Claremont Ave Rockridge, North Oakland", 
+        "latitude": "37.849129", 
+        "ratings_histogram": [
+            {
+                "5 stars": "137"
+            }, 
+            {
+                "4 stars": "149"
+            }, 
+            {
+                "3 stars": "54"
+            }, 
+            {
+                "2 stars": "28"
+            }, 
+            {
+                "1 star": "18"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "", 
+        "category": "Asian Fusion"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "Yes"
+            }, 
+            {
+                "Accepts Google Pay": "Yes"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Breakfast, Brunch"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "No"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Hipster, Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "Free"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "No"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Good for Working": "Yes"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.crackedsandwich.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "6:00 pm - 10:00 pm"
+            }, 
+            {
+                "Tue": "8:00 am - 1:00 pm6:00 pm - 10:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "8:00 am - 1:00 pm6:00 pm - 10:00 pm"
+            }, 
+            {
+                "Thu": "8:00 am - 1:00 pm6:00 pm - 10:00 pm"
+            }, 
+            {
+                "Fri": "8:00 am - 1:00 pm6:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sat": "9:00 am - 2:00 pm6:00 pm - 10:00 pm"
+            }, 
+            {
+                "Sun": "9:00 am - 2:00 pm"
+            }
+        ], 
+        "name": "Cracked", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/cracked-berkeley?osq=Restaurants", 
+        "longitude": "-122.268780", 
+        "reviews": "178 reviews", 
+        "phone": "(510) 520-4265", 
+        "address": "1974 Shattuck Ave Blackwater Station Berkeley, CA 94704 b/t University Ave & Berkeley Way Downtown Berkeley", 
+        "latitude": "37.872620", 
+        "ratings_histogram": [
+            {
+                "5 stars": "92"
+            }, 
+            {
+                "4 stars": "35"
+            }, 
+            {
+                "3 stars": "16"
+            }, 
+            {
+                "2 stars": "12"
+            }, 
+            {
+                "1 star": "23"
+            }
+        ], 
+        "price_range": "Under $10", 
+        "health_rating": "", 
+        "category": "Breakfast & Brunch,Coffee & Tea,Sandwiches"
+    }, 
+    {
+        "info": [
+            {
+                "Liked by Vegetarians": "Yes"
+            }, 
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Accepts Bitcoin": "No"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Wheelchair Accessible": "Yes"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Alcohol": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "Yes"
+            }, 
+            {
+                "Dogs Allowed": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "Yes"
+            }, 
+            {
+                "Gender Neutral Restrooms": "Yes"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://www.tastypotusa.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "11:30 am - 2:45 pm5:00 pm - 9:15 pm"
+            }, 
+            {
+                "Tue": "11:30 am - 2:45 pm5:00 pm - 9:15 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "11:30 am - 2:45 pm5:00 pm - 9:15 pm"
+            }, 
+            {
+                "Thu": "11:30 am - 2:45 pm5:00 pm - 9:15 pm"
+            }, 
+            {
+                "Fri": "11:30 am - 2:45 pm5:00 pm - 9:15 pm"
+            }, 
+            {
+                "Sat": "11:30 am - 2:45 pm5:00 pm - 9:15 pm"
+            }, 
+            {
+                "Sun": "11:30 am - 2:45 pm5:00 pm - 9:15 pm"
+            }
+        ], 
+        "name": "Tasty Pot", 
+        "claimed_status": "Claimed", 
+        "url": "https://yelp.com/biz/tasty-pot-berkeley-4?osq=Restaurants", 
+        "longitude": "-122.267183", 
+        "reviews": "405 reviews", 
+        "phone": "(510) 898-1202", 
+        "address": "2115 Kittredge St Berkeley, CA 94704 b/t Shattuck Ave & Fulton St Downtown Berkeley", 
+        "latitude": "37.868858", 
+        "ratings_histogram": [
+            {
+                "5 stars": "116"
+            }, 
+            {
+                "4 stars": "172"
+            }, 
+            {
+                "3 stars": "62"
+            }, 
+            {
+                "2 stars": "24"
+            }, 
+            {
+                "1 star": "31"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "93 out of 100", 
+        "category": "Taiwanese,Bubble Tea,Hot Pot"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "No"
+            }, 
+            {
+                "Delivery": "Yes"
+            }, 
+            {
+                "Take-out": "Yes"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Good For": "Lunch, Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Good for Kids": "Yes"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Ambience": "Casual"
+            }, 
+            {
+                "Alcohol": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Drive-Thru": "No"
+            }
+        ], 
+        "ratings": "3.5", 
+        "website": "", 
+        "info_email": "", 
+        "working_hours": [], 
+        "name": "Famous Bao", 
+        "claimed_status": "", 
+        "url": "https://yelp.com/biz/famous-bao-berkeley-5?osq=Restaurants", 
+        "longitude": "-122.268570", 
+        "reviews": "40 reviews", 
+        "phone": "", 
+        "address": "2116 Shattuck Ave Berkeley, CA 94704 Downtown Berkeley", 
+        "latitude": "37.870640", 
+        "ratings_histogram": [
+            {
+                "5 stars": "11"
+            }, 
+            {
+                "4 stars": "15"
+            }, 
+            {
+                "3 stars": "3"
+            }, 
+            {
+                "2 stars": "5"
+            }, 
+            {
+                "1 star": "6"
+            }
+        ], 
+        "price_range": "$11-30", 
+        "health_rating": "100 out of 100", 
+        "category": "Asian Fusion,Chinese,Fast Food"
+    }, 
+    {
+        "info": [
+            {
+                "Takes Reservations": "Yes"
+            }, 
+            {
+                "Delivery": "No"
+            }, 
+            {
+                "Take-out": "No"
+            }, 
+            {
+                "Accepts Credit Cards": "Yes"
+            }, 
+            {
+                "Accepts Apple Pay": "No"
+            }, 
+            {
+                "Accepts Google Pay": "No"
+            }, 
+            {
+                "Good For": "Dinner"
+            }, 
+            {
+                "Parking": "Street"
+            }, 
+            {
+                "Bike Parking": "Yes"
+            }, 
+            {
+                "Good for Kids": "No"
+            }, 
+            {
+                "Good for Groups": "Yes"
+            }, 
+            {
+                "Attire": "Casual"
+            }, 
+            {
+                "Noise Level": "Average"
+            }, 
+            {
+                "Music": "Background"
+            }, 
+            {
+                "Good For Dancing": "No"
+            }, 
+            {
+                "Alcohol": "Full Bar"
+            }, 
+            {
+                "Happy Hour": "No"
+            }, 
+            {
+                "Best Nights": "Fri, Sat, Sun"
+            }, 
+            {
+                "Smoking": "No"
+            }, 
+            {
+                "Outdoor Seating": "No"
+            }, 
+            {
+                "Wi-Fi": "No"
+            }, 
+            {
+                "Has TV": "No"
+            }, 
+            {
+                "Waiter Service": "Yes"
+            }, 
+            {
+                "Caters": "No"
+            }, 
+            {
+                "Has Pool Table": "No"
+            }
+        ], 
+        "ratings": "4.0", 
+        "website": "http://ippukuberkeley.com", 
+        "info_email": "", 
+        "working_hours": [
+            {
+                "Mon": "Closed"
+            }, 
+            {
+                "Tue": "5:00 pm - 10:00 pm\n        \n                Closed now"
+            }, 
+            {
+                "Wed": "5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Thu": "5:00 pm - 10:00 pm"
+            }, 
+            {
+                "Fri": "5:00 pm - 11:00 pm"
+            }, 
+            {
+                "Sat": "5:00 pm - 11:00 pm"
+            }, 
+            {
+                "Sun": "5:00 pm - 10:00 pm"
+            }
+        ], 
+        "name": "Ippuku", 
+        "claimed_status": "", 
+        "url": "https://yelp.com/biz/ippuku-berkeley-2?osq=Restaurants", 
+        "longitude": "-122.267028", 
+        "reviews": "1148 reviews", 
+        "phone": "(510) 665-1969", 
+        "address": "2130 Center St Ste 101 Berkeley, CA 94704 b/t Oxford St & West Entrance Downtown Berkeley", 
+        "latitude": "37.870095", 
+        "ratings_histogram": [
+            {
+                "5 stars": "446"
+            }, 
+            {
+                "4 stars": "411"
+            }, 
+            {
+                "3 stars": "133"
+            }, 
+            {
+                "2 stars": "89"
+            }, 
+            {
+                "1 star": "69"
+            }
+        ], 
+        "price_range": "$31-60", 
+        "health_rating": "100 out of 100", 
+        "category": "Bars,Izakaya"
+    }
+]

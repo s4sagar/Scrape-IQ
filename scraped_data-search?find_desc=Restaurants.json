@@ -1,0 +1,22 @@
+[
+    {
+        "info_email": "info@dyarberkeley.com", 
+        "name": "Dyar Mediterranean Cuisine"
+    }, 
+    {
+        "info_email": "info@pouletdeli.com", 
+        "name": "Poulet"
+    }, 
+    {
+        "info_email": "info@jazzcaffe.biz", 
+        "name": "Jazz Caffe"
+    }, 
+    {
+        "info_email": "info@theorganiccoup.com", 
+        "name": "The Organic Coup"
+    }, 
+    {
+        "info_email": "info@lanesplitterpizza.com", 
+        "name": "Lanesplitter Pizza & Pub"
+    }
+]
