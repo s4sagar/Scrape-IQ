@@ -58,6 +58,11 @@ def find_emails(domain_name):
 	domain_name=domain_name.split('//')[1].split('/')[0]
 	if 'www.' in domain_name:
 		domain_name=domain_name.split('www.')[1]
+
+	if domain_name.count('.') > 1:
+		#subdomain.domain.com
+		domain_name = domain_name.split('.')[1]
+	
 	emails = [
 		'info@'+domain_name,
 		'contact@'+domain_name,
