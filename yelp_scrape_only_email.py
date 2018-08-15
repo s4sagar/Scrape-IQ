@@ -132,13 +132,16 @@ if __name__=="__main__":
 	# cursor = conn.cursor()
 
 	argparser = argparse.ArgumentParser()
-	argparser.add_argument('url',help = 'yelp bussiness url')
+	argparser.add_argument('url',start,end,help = 'yelp bussiness url')
 	args = argparser.parse_args()
 	url = args.url
+	start = args.start
+	end = args.end
+
 	print 'URL = '+url
 
 	# for start in range (1230,3330,30): for Seattle
-	for start in range (300,1200,30):
+	for start in range (start,end,30):
 		restaurant_links = parse_yelp_list_page(url+'&start='+str(start))
 		print restaurant_links
 	
