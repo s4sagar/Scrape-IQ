@@ -79,7 +79,7 @@ def find_emails():
 			server.mail('me@domain.com')
 
 			code, message = server.rcpt(str(passall_email))
-			print 'Rcpt success for : '+passall_email+' '+str(code)
+			# print 'Rcpt success for : '+passall_email+' '+str(code)
 			# 250 is Success
 			if code == 250:
 				print 'CATCHALL for + '+domain_name
@@ -88,7 +88,7 @@ def find_emails():
 
 			else:
 				for email in emails:
-					print '\nTrying '+email
+					# print '\nTrying '+email
 					code, message = server.rcpt(str(email))
 					if code == 250:
 						valid_emails.append(email)
@@ -99,22 +99,22 @@ def find_emails():
 				first_last_name_exec = executive_first_names[idx]+'.'+executive_last_names[idx]+'@'+domain_name
 				first_init_last_exec = str(executive_first_names[idx][0])+executive_last_names[idx]+'@'+domain_name
 
-				print '\nTrying '+first_name_exec
+				# print '\nTrying '+first_name_exec
 				code, message = server.rcpt(str(first_name_exec))
 				if code == 250:
 					valid_emails.append(first_name_exec)
 
-				print '\nTrying '+last_name_exec
+				# print '\nTrying '+last_name_exec
 				code, message = server.rcpt(str(last_name_exec))
 				if code == 250:
 					valid_emails.append(last_name_exec)
 
-				print '\nTrying '+first_last_name_exec
+				# print '\nTrying '+first_last_name_exec
 				code, message = server.rcpt(str(first_last_name_exec))
 				if code == 250:
 					valid_emails.append(first_last_name_exec)	
 
-				print '\nTrying '+first_init_last_exec
+				# print '\nTrying '+first_init_last_exec
 				code, message = server.rcpt(str(first_init_last_exec))
 				if code == 250:
 					valid_emails.append(first_init_last_exec)
