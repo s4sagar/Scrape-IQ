@@ -28,11 +28,22 @@ def find_emails():
 		emails = [
 			'info@'+domain_name,
 			'contact@'+domain_name,
+			'contactus@'+domain_name,
+			'comments@'+domain_name,
 			'manager@'+domain_name,
+			'gm@'+domain_name,
 			'sales@'+domain_name,
+			'staff@'+domain_name,
 			'operations@'+domain_name,
 			'hello@'+domain_name,
-			'desk@'+domain_name
+			'desk@'+domain_name,
+			'owner@'+domain_name,
+			'team@'+domain_name,
+			'general@'+domain_name,
+			'office@'+domain_name,
+			'hey@'+domain_name,
+			'howdy@'+domain_name,
+			'feedback@'+domain_name,
 		]
 		passall_email = 'askjdbsahflansdflgsadjklnahsdb123yt21uiy4t2i13yiu12@'+domain_name
 		valid_emails = []
@@ -76,11 +87,11 @@ def find_emails():
 				# if catchall just check info@
 
 			else:
-				for i in range(0,7):
-					print '\nTrying '+emails[i]
-					code, message = server.rcpt(str(emails[i]))
+				for email in emails:
+					print '\nTrying '+email
+					code, message = server.rcpt(str(email))
 					if code == 250:
-						valid_emails.append(emails[i])
+						valid_emails.append(email)
 
 				# Try with exec names
 				first_name_exec = executive_first_names[idx]+'@'+domain_name
