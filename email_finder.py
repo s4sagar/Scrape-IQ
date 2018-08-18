@@ -122,10 +122,9 @@ def validate_domain():
 	return all_valid_emails
 
 
-def find_email_thread(start_idx, end_idx):
-	for idx in range(start_idx, end_idx):
-		validate_domain(idx)
-		sys.stdout.flush()
+def find_email_thread():
+	validate_domain(idx)
+	sys.stdout.flush()
 
 
 
