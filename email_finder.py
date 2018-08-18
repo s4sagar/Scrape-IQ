@@ -129,16 +129,23 @@ def find_email_thread():
 	sys.stdout.flush()
 
 
-#def find_emails():
+def find_emails():
 	# Create two threads as follows
-	
+	try:
+		while idx < len(domain_names):
+		   # 95 to 700 tried
+		   thread.start_new_thread( find_email_thread, () )
+		   time.sleep(300)
+	   
+	except:
+	   print "Error: unable to start thread"
 
 if __name__=="__main__":
 	try:
 		while idx < len(domain_names):
 		   # 95 to 700 tried
-		   thread.start_new_thread( find_email_thread, () )
-		   time.sleep(1800)
+		   thread.start_new_thread( find_emails, () )
+		   time.sleep(3000)
 	   
 	except:
 	   print "Error: unable to start thread"
