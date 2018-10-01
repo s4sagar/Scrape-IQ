@@ -31,6 +31,10 @@ def validate_domain():
 		#subdomain.domain.com
 		domain_name = domain_name.split('.')[1]
 
+	# Trailing /
+	if domain_name[domain_name.len-1] = '/'
+		domain_name = domain_name[0:len-1]
+
 	print 'validating curr_idx=', curr_idx, domain_name
 	
 	emails = [
