@@ -7,6 +7,7 @@ import psycopg2
 import time
 import thread
 import sys
+import json
 
 
 executive_first_names = ["Howard","Julie","Justin","Roger","Dan","Sara","Will","Mike","Jessica","Adam","Tony","Ken","Ben","Ed","Joseph","Tina","Abe","Erin","Michael","Mike","Tony","Rocky","Elia","Tom","Susan","Dave","Amy","Peter","Wendy","John","Eric","Olivia","mel","Rob","Cristina","Aalap","Bob","John","Nadine","Russell","Tim","Jeremy","Al","Mark","Patrick","Wojciech","Gregory","Dan","Dennie","Ben","Jim","Marty","Greg","Veronica","Kathleen","Chris","Alana","Tim","Jim","Kemper","Kimberton","Steve","Catherine","Edward","Kevin","Rochelle","Jerry","Hanna","Leslie","Heather","Jacob","Colm","Carol Baca","Jennifer","Nick","Dale","Ben","David","Jon D.","Brian","Andre","Joan","Joseph","Thomas","Laura","Kevin","Wayne","Matt","Ryan","Lon","Cindy","John","Nadim","Cynthia","RIC","Julie","Matt","Steven","Michelle","Rajindra","Rob","Sara","Max","Betsy","Matt","Michael","Tim","Mariano","Jack","Jeremy","Brandon","Andy","Abe","Gregory","Mike","Hank","Wes","Thomas","Bradford","William","Brandon","Anna","Elizabeth","Dave","Chaitan","Corey","Kirk","Aaron","Brian","Matt","Ron","Michael","Werner","Mario","JP","Joy","Will","Jeremy","Kevin","Mark","John","Gregory","Dane","Stephen","Saveena","Matthew","Jonathan","Tim","John","Jason","Jay","Lauren ","Augusto","Augusto","David","George","Chris","Jacob","Nick","Alec","Jeff","Schack von","Scott","Rodney","Leslie","Spencer","Brian","Jenna","Dean","Jerry","Flor","Gale","Jim","Kevin","Ryan","Otto","Jovana","Pete","Christopher","Robert","Andy","Stephen","Rodd","Hadi","Mike","John","Javier","TJ","Reena","David","Joseph","Steve","Vijay","Joe","Paul","Jon","Brett","Drew","Howard","Chaitan","Jonathan","Karen","Lisa","Craig","Tyler","Joe","Tabitha","Lawrence","Denis","Marc","Anita","Will","Dominic","Jason","Thomas","Steve","William","Hanno","Siddharth","Shannon","Lance","Kim","Jeff","Timothy","Beth","Chad","Marcie","Greg","Hillary","Brian","Alan","Paolo","Olivier","Kari","Brian","Jonathan","Gottfried","Steve","Amy","Stephanie","Jim","Jay","Scott","Eric","David","Randy","Marie","Piper","Kim","Yoseph","Jennifer","Kory","Erich","Jennifer","Christopher","Ed","Carolyn","Mohammad","Alex","Brandon","Amy","Brandi","Isabel","Paul","Rocky","Rick","Mark","Eddie","Michelle","Michael","Rose","Robert","Jack","Toby","Brook","Tom","Joel","Ryan","Mark","Paul","Eric","Kathy","Peter","David","Doug","Juan","Ryan","Dave","Stacie","Steven","Joe","Scott","Peter","Sourav","Daniel","Monroe","Dan","Ron","Jeffrey","James","Joel","Chris","Tom","Dominic","Mike","Daniel","Bruce","Erin","Claudia","Steve","Bill","David","Teri","Clarissa","Tom","Chris","Rene","Brian","Laura","Michael","Mark","Christine","Shane","Philippa","Steve","Jennifer","Charlie","Roberto","Miles","Jean Yves","Tammy","Clinton","Andrew","Jeffrey","Scott","Nate","Mario","Phil","Chris","Micah","Steve","Gary","Renee ","Scott","Farid","Joe","Carolyn","Michael","Mike","Nick","William","Jessica","Keith","Scott","Bruce","Brendan","Dan","Jamal","Rebecca","Alejandro","Aaron","David","Ed","Stephen","Jennifer","Sarah","Katherine","Troy","Matt","James","Stephen","Joel","Paul","Marco","David","Marco","Mark","Ryan","Richard","Kyle","Kevin","Guillermo","Dan","Jeffrey","Paul","Marjorie","Marjorie","James","Donna","Gregg","Mike","Tara","Mary","Julie","Robb","Michel","Dennis","Melissa","Raymond","Brad","Paul","Minazali","Andrew","Doug","Tony","Cheryl","Phillip","Danny","Nicky","Eric","Phil","Stephanie","Stacy","Anders","Carolyn","Roy","Nick","Adam","Matt","Joshua","Leo","Len","Jimmye","Scott","Jan","Rebecca","Kevin","Houston","Jim","Jeanette","Russell","Bryon","Norma","Kevin","Jessica","Wendy","Missy","Conner","Deb","AJ","Mason","Jason","Sonya","Gregg","Brandon","Albert","Chris","Karen","Hong","Jason","James","Tony","Kristena","Jolene","Brett","Tom","Linda","Joseph","Jim","Augusto","Paul","Craig","John","Bill","Arnie","Eric","Shlomit","Frank","Richard","Jill","Scott","Laarni","Guillermo","Michael","Alan","Robert","Joseph","Brendan","Jonathan","Scott","Lyssa","Christopher","Oswaldo","Aleksey","Christina","Christina","Sherry","Mark","Paul","Herve","Manuel","Michael","Richard","Cyndy","Ken","William","Bill","Tatiana","Amish","Chad","Kent","Jennifer","Bill","Kimberly ","Andrew","Tracy Shannon","Hamish","Jennifer","Scott","Matis","Mark","Thomas","Robert","David","Josh","Shiri","Carlos","Jason","Joel","Todd","Mike","Jayne","James","Albert","Mike","Heidi","Eric","Ted","Mohamed","Reneza","Mandy","Tom","Fernando","Hsin","Ning ","Jessie","Kelly","Kelly"]
@@ -662,8 +663,8 @@ def validate_domain():
 			server.quit()
 	except:
 		print 'SMTP Failed for '+domain_name
-	print '\n'+company_names[curr_idx]+' : '
-	print valid_emails
+	# print '\n'+company_names[curr_idx]+' : '
+	# print valid_emails
 	all_valid_emails.append(valid_emails)
 
 
@@ -684,23 +685,41 @@ def find_email_thread():
 # 	except:
 # 	   print "Error: unable to start thread"
 
-if __name__=="__main__":
-	try:
-		thread.start_new_thread( find_email_thread, () )
-		time.sleep(60)
-		thread.start_new_thread( find_email_thread, () )
-		time.sleep(60)
-		thread.start_new_thread( find_email_thread, () )
-		time.sleep(60)
-		thread.start_new_thread( find_email_thread, () )
-		time.sleep(60)
-		thread.start_new_thread( find_email_thread, () )
-		time.sleep(60)
+def print_as_csv():
+	print '_________'
+	i = 0
+	j = 0
+	print json.dumps(all_valid_emails)
+	# print len(all_valid_emails)
+	print '_________'
 
-		while idx < len(domain_names):
-		   # 95 to 700 tried
-		   thread.start_new_thread( find_email_thread, () )
-		   time.sleep(1800)
+	for i in range(len(all_valid_emails)):
+		# print 'i= '+str(i)
+		if len(all_valid_emails[i]) > 0:
+			for j in range(len(all_valid_emails[i])):
+				# print 'j= '+str(j)
+				print '"'+executive_first_names[i]+'",'+'"'+company_names[i],'",'+all_valid_emails[i][j]
+
+if __name__=="__main__":
+	find_email_thread()
+	print_as_csv()
+	# try:
+		# thread.start_new_thread( find_email_thread, () )
+		# time.sleep(60)
+		# thread.start_new_thread( find_email_thread, () )
+		# time.sleep(60)
+		# thread.start_new_thread( find_email_thread, () )
+		# time.sleep(60)
+		# thread.start_new_thread( find_email_thread, () )
+		# time.sleep(60)
+		# thread.start_new_thread( find_email_thread, () )
+		# time.sleep(60)
+
+	# 	while idx < len(domain_names):
+	# 	   # 95 to 700 tried
+	# 	   thread.start_new_thread( find_email_thread, () )
+	# 	   time.sleep(1800)
 	   
-	except:
-	   print "Error: unable to start thread"
+	# except:
+	#    print "Error: unable to start thread"
+
