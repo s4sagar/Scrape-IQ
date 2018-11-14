@@ -1,0 +1,2863 @@
+/usr/local/lib64/python2.7/site-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+  """)
+validating curr_idx= 0 benjaminfoods.com
+validating curr_idx= 1 fijiwater.com
+validating curr_idx= 2 http://health-ade.com
+DNS Failed for http://health-ade.com
+DNS Failed for http://health-ade.com
+SMTP Failed for http://health-ade.com
+
+Health-Ade Kombucha : 
+[]
+validating curr_idx= 3 hotelcolonnade.com
+
+Benjamin Foods : 
+['info@benjaminfoods.com']
+validating curr_idx= 4 moblty.com
+validating curr_idx= 5 imperfectproduce.com
+validating curr_idx= 6 westwindaviation.ca
+SMTP Failed for moblty.com
+
+Moblty  : 
+[]
+validating curr_idx= 7 singerlewak.com
+validating curr_idx= 8 farmersfridge.com
+SMTP Failed for imperfectproduce.com
+
+Imperfect Produce : 
+[]
+validating curr_idx= 9 dirtylemon.com
+
+Dirty Lemon : 
+['team@dirtylemon.com', 'Adam@dirtylemon.com']
+validating curr_idx= 10 barriotequila.com
+SMTP Failed for westwindaviation.ca
+
+Westwind Aviation  : 
+[]
+validating curr_idx= 11 onyxcentersource.com
+SMTP Failed for hotelcolonnade.com
+
+Hotel Colonnade Coral Gables, A Tribute Portfolio Hotel : 
+[]
+validating curr_idx= 12 http://foodstirs.com
+DNS Failed for http://foodstirs.com
+DNS Failed for http://foodstirs.com
+SMTP Failed for http://foodstirs.com
+
+Foodstirs : 
+[]
+validating curr_idx= 13 troegs.com
+SMTP Failed for farmersfridge.com
+
+Farmer'S Fridge : 
+[]
+validating curr_idx= 14 rolandfoods.com/about/careers
+DNS Failed for rolandfoods.com/about/careers
+DNS Failed for rolandfoods.com/about/careers
+SMTP Failed for rolandfoods.com/about/careers
+
+Roland Foods : 
+[]
+validating curr_idx= 15 onedatascan.com
+CATCHALL for + onyxcentersource.com
+
+Onyx Centersource : 
+['info@onyxcentersource.com']
+validating curr_idx= 16 eathere.com
+SMTP Failed for troegs.com
+
+Troegs Brewing Company : 
+[]
+validating curr_idx= 17 brooklynbowl.com
+SMTP Failed for singerlewak.com
+
+Singerlewak  : 
+[]
+validating curr_idx= 18 http://cadillacsf.com
+DNS Failed for http://cadillacsf.com
+DNS Failed for http://cadillacsf.com
+SMTP Failed for http://cadillacsf.com
+
+Cadillac Bar & Grill : 
+[]
+validating curr_idx= 19 bunn.com
+SMTP Failed for onedatascan.com
+
+Datascan : 
+[]
+validating curr_idx= 20 http://eatatcore.com
+DNS Failed for http://eatatcore.com
+DNS Failed for http://eatatcore.com
+SMTP Failed for http://eatatcore.com
+
+Corelife Eatery : 
+[]
+validating curr_idx= 21 http://tacojohns.com
+DNS Failed for http://tacojohns.com
+DNS Failed for http://tacojohns.com
+SMTP Failed for http://tacojohns.com
+
+Taco John'S International : 
+[]
+validating curr_idx= 22 https://nuts.com
+DNS Failed for https://nuts.com
+DNS Failed for https://nuts.com
+SMTP Failed for https://nuts.com
+
+Nuts.Com : 
+[]
+validating curr_idx= 23 newks.com
+SMTP Failed for barriotequila.com
+
+Barrio : 
+[]
+validating curr_idx= 24 zume-com
+DNS Failed for zume-com
+DNS Failed for zume-com
+SMTP Failed for zume-com
+
+Zume  : 
+[]
+validating curr_idx= 25 suncast.com
+SMTP Failed for brooklynbowl.com
+
+Brooklyn Bowl : 
+[]
+validating curr_idx= 26 amyfalbaum.com
+SMTP Failed for bunn.com
+
+Bunn : 
+[]
+validating curr_idx= 27 https://intelligentsiacoffee.com
+DNS Failed for https://intelligentsiacoffee.com
+DNS Failed for https://intelligentsiacoffee.com
+SMTP Failed for https://intelligentsiacoffee.com
+
+Intelligentsia Coffee  : 
+[]
+validating curr_idx= 28 1800petmeds.com
+SMTP Failed for newks.com
+
+Newk'S Eatery : 
+[]
+validating curr_idx= 29 buddig.com
+
+Carl Buddig And Company : 
+['sales@buddig.com']
+validating curr_idx= 30 dermaconcepts.com
+SMTP Failed for suncast.com
+
+Suncast Corporation : 
+[]
+validating curr_idx= 31 http://zerocater.com
+DNS Failed for http://zerocater.com
+DNS Failed for http://zerocater.com
+SMTP Failed for http://zerocater.com
+
+Zerocater : 
+[]
+validating curr_idx= 32 http://themaderagroup.com
+DNS Failed for http://themaderagroup.com
+DNS Failed for http://themaderagroup.com
+SMTP Failed for http://themaderagroup.com
+
+The Madera Group : 
+[]
+validating curr_idx= 33 arraybiopharma.com
+SMTP Failed for eathere.com
+
+Eat Here Brands : 
+[]
+validating curr_idx= 34 collectiveretreats.com
+SMTP Failed for amyfalbaum.com
+
+Amy Falbaum & Associates : 
+[]
+validating curr_idx= 35 https://nuts.com
+DNS Failed for https://nuts.com
+DNS Failed for https://nuts.com
+SMTP Failed for https://nuts.com
+
+Nuts.Com : 
+[]
+validating curr_idx= 36 siggisdairy.com
+SMTP Failed for 1800petmeds.com
+
+Petmed Express : 
+[]
+validating curr_idx= 37 drinkcoffee.com
+SMTP Failed for dermaconcepts.com
+
+Dermaconcepts / Environ Skin Care : 
+[]
+validating curr_idx= 38 uptownnetwork.com
+SMTP Failed for arraybiopharma.com
+
+Array Biopharma  : 
+[]
+validating curr_idx= 39 vitalfarms.com
+
+Corporate Essentails : 
+['info@drinkcoffee.com', 'John.Duffy@drinkcoffee.com']
+validating curr_idx= 40 sonomacounty.com
+SMTP Failed for collectiveretreats.com
+
+Collective Retreats : 
+[]
+validating curr_idx= 41 bevi.co
+SMTP Failed for uptownnetwork.com
+
+Uptown Network : 
+[]
+validating curr_idx= 42 http://firopizza.com
+DNS Failed for http://firopizza.com
+DNS Failed for http://firopizza.com
+SMTP Failed for http://firopizza.com
+
+Firo Fire Kissed Pizza : 
+[]
+validating curr_idx= 43 getconga.com
+SMTP Failed for vitalfarms.com
+
+Vital Farms : 
+[]
+validating curr_idx= 44 https://c3iot.ai
+DNS Failed for https://c3iot.ai
+DNS Failed for https://c3iot.ai
+SMTP Failed for https://c3iot.ai
+
+C3 Iot : 
+[]
+validating curr_idx= 45 avendra.com
+SMTP Failed for bevi.co
+
+Bevi : 
+[]
+validating curr_idx= 46 cloverfoodlab.com
+SMTP Failed for siggisdairy.com
+
+Siggi'S Dairy : 
+[]
+validating curr_idx= 47 http://taldepot.com
+DNS Failed for http://taldepot.com
+DNS Failed for http://taldepot.com
+SMTP Failed for http://taldepot.com
+
+Tal Depot : 
+[]
+validating curr_idx= 48 zaxbysfranchising.com
+
+Clover Food Lab : 
+['staff@cloverfoodlab.com', 'GDonoghue@cloverfoodlab.com']
+validating curr_idx= 49 https://urbanremedy.com
+DNS Failed for https://urbanremedy.com
+DNS Failed for https://urbanremedy.com
+SMTP Failed for https://urbanremedy.com
+
+Urban Remedy  : 
+[]
+validating curr_idx= 50 kongcompany.com
+SMTP Failed for sonomacounty.com
+
+Sonoma County Tourism : 
+[]
+validating curr_idx= 51 fuchsna.com
+SMTP Failed for kongcompany.com
+
+Kong Company : 
+[]
+validating curr_idx= 52 16handles.com
+SMTP Failed for getconga.com
+
+Conga : 
+[]
+validating curr_idx= 53 baresnacks.com
+CATCHALL for + baresnacks.com
+
+Bare Snacks : 
+['info@baresnacks.com']
+validating curr_idx= 54 blackman.com
+SMTP Failed for zaxbysfranchising.com
+
+Zaxby'S Franchising : 
+[]
+validating curr_idx= 55 floqast.com
+SMTP Failed for 16handles.com
+
+16 Handles : 
+[]
+validating curr_idx= 56 foodbuy.com
+SMTP Failed for avendra.com
+
+Avendra  : 
+[]
+validating curr_idx= 57 hosthotels.com
+SMTP Failed for fuchsna.com
+
+Fuchs North America : 
+[]
+validating curr_idx= 58 bergankdv.com
+
+Host Hotels & Resorts : 
+[]
+validating curr_idx= 59 bradsrawfoods.com
+SMTP Failed for floqast.com
+
+Floqast : 
+[]
+validating curr_idx= 60 bradsrawfoods.com
+SMTP Failed for bradsrawfoods.com
+
+Brad'S Raw Foods : 
+[]
+validating curr_idx= 61 alto-shaam.com
+SMTP Failed for bradsrawfoods.com
+
+Brad'S Raw Foods : 
+[]
+validating curr_idx= 62 greciandelight.com
+SMTP Failed for foodbuy.com
+
+Foodbuy Usa : 
+[]
+validating curr_idx= 63 pizzasavor.com
+CATCHALL for + bergankdv.com
+
+Bergankdv : 
+['info@bergankdv.com']
+validating curr_idx= 64 recursionpharma.com
+SMTP Failed for alto-shaam.com
+
+Alto-Shaam : 
+[]
+validating curr_idx= 65 haralambos.com
+SMTP Failed for greciandelight.com
+
+Grecian Delight Foods : 
+[]
+validating curr_idx= 66 conferencedirect.com
+SMTP Failed for recursionpharma.com
+
+Recursion Pharmaceuticals : 
+[]
+validating curr_idx= 67 thepurplecarrot.com
+
+Fiji Water : 
+['info@fijiwater.com', 'Julie.Silver@fijiwater.com']
+validating curr_idx= 68 betterworks.com
+SMTP Failed for conferencedirect.com
+
+Conferencedirect : 
+[]
+validating curr_idx= 69 ehs.com
+SMTP Failed for thepurplecarrot.com
+
+Purple Carrot : 
+[]
+validating curr_idx= 70 rockstarenergy.com
+SMTP Failed for betterworks.com
+
+Betterworks : 
+[]
+validating curr_idx= 71 thompsoncigar.com
+SMTP Failed for haralambos.com
+
+Haralambos Beverage Company : 
+[]
+validating curr_idx= 72 nassaucandy.com
+
+Nassau Candy Distributors : 
+['sales@nassaucandy.com']
+validating curr_idx= 73 http://captricity.com
+DNS Failed for http://captricity.com
+DNS Failed for http://captricity.com
+SMTP Failed for http://captricity.com
+
+Captricity : 
+[]
+validating curr_idx= 74 http://pearsonscandy.com
+DNS Failed for http://pearsonscandy.com
+DNS Failed for http://pearsonscandy.com
+SMTP Failed for http://pearsonscandy.com
+
+Pearson'S Candy Company : 
+[]
+validating curr_idx= 75 auntieannes.com
+SMTP Failed for pizzasavor.com
+
+Pizza Savor : 
+[]
+validating curr_idx= 76 spyderco.com
+SMTP Failed for spyderco.com
+
+Spyderco : 
+[]
+validating curr_idx= 77 http://oathpizza.com
+DNS Failed for http://oathpizza.com
+DNS Failed for http://oathpizza.com
+SMTP Failed for http://oathpizza.com
+
+Oath Pizza : 
+[]
+validating curr_idx= 78 lhw.com
+SMTP Failed for thompsoncigar.com
+
+Thompson & Co : 
+[]
+validating curr_idx= 79 newportchintl.com
+validating curr_idx= 80 campbellsoupcompany.com
+SMTP Failed for rockstarenergy.com
+
+Rockstar Energy Drink : 
+[]
+validating curr_idx= 81 traveltripper.com
+CATCHALL for + traveltripper.com
+
+Travel Tripper : 
+['info@traveltripper.com']
+validating curr_idx= 82 cento.com
+SMTP Failed for newportchintl.com
+
+Newport Ch International : 
+[]
+validating curr_idx= 83 houstonracquetclub.com
+SMTP Failed for lhw.com
+
+The Leading Hotels Of The World : 
+[]
+validating curr_idx= 84 compoundsolutions.com
+SMTP Failed for blackman.com
+
+Blackman Plumbing Supply Co. : 
+[]
+validating curr_idx= 85 airpush.com
+
+Airpush,  : 
+['info@airpush.com', 'Kevin@airpush.com']
+validating curr_idx= 86 berdonllp.com
+SMTP Failed for campbellsoupcompany.com
+
+Campbell Soup Company : 
+[]
+validating curr_idx= 87 mavs.com
+DNS Failed for mavs.com
+DNS Failed for mavs.com
+SMTP Failed for mavs.com
+
+Dallas Mavericks : 
+[]
+validating curr_idx= 88 generalatlantic.com
+SMTP Failed for cento.com
+
+Cento Fine Foods : 
+[]
+validating curr_idx= 89 illy.com
+SMTP Failed for houstonracquetclub.com
+
+Houston Racquet Club : 
+[]
+validating curr_idx= 90 smashotels.com
+SMTP Failed for berdonllp.com
+
+Berdon  : 
+[]
+validating curr_idx= 91 dwr.com
+CATCHALL for + ehs.com
+
+Velocityehs : 
+['info@ehs.com']
+validating curr_idx= 92 whg.com
+SMTP Failed for smashotels.com
+
+Smashotels : 
+[]
+validating curr_idx= 93 cafexapp.com
+SMTP Failed for dwr.com
+
+Design Within Reach : 
+[]
+validating curr_idx= 94 backyardburgers.com
+SMTP Failed for compoundsolutions.com
+
+Compound Solutions : 
+[]
+validating curr_idx= 95 fijiwater.com
+SMTP Failed for illy.com
+
+Illy Caffe North America : 
+[]
+validating curr_idx= 96 evolutionhospitality.com
+
+Auntie Anne'S : 
+[]
+validating curr_idx= 97 http://lodgiq.com
+DNS Failed for http://lodgiq.com
+DNS Failed for http://lodgiq.com
+SMTP Failed for http://lodgiq.com
+
+Lodgiq : 
+[]
+validating curr_idx= 98 mellowmushroom.com
+SMTP Failed for cafexapp.com
+
+Cafe X Technologies : 
+[]
+validating curr_idx= 99 heartflow.com
+SMTP Failed for mellowmushroom.com
+
+Home-Grown Industries Of Ga Dba Mellow Mushroom : 
+[]
+validating curr_idx= 100 com/index
+DNS Failed for com/index
+DNS Failed for com/index
+SMTP Failed for com/index
+
+Food First Global Restaurants : 
+[]
+validating curr_idx= 101 imperfectproduce.com
+SMTP Failed for backyardburgers.com
+
+Back Yard Burgers : 
+[]
+validating curr_idx= 102 happyfamilyorganics.com
+
+Evolution Hospitality : 
+['operations@evolutionhospitality.com']
+validating curr_idx= 103 http://duckdonuts.com
+DNS Failed for http://duckdonuts.com
+DNS Failed for http://duckdonuts.com
+SMTP Failed for http://duckdonuts.com
+
+Duck Donuts : 
+[]
+validating curr_idx= 104 http://barnana.com
+DNS Failed for http://barnana.com
+DNS Failed for http://barnana.com
+SMTP Failed for http://barnana.com
+
+Barnana : 
+[]
+validating curr_idx= 105 philzcoffee.com
+SMTP Failed for whg.com
+
+Westmont Hospitality Group : 
+[]
+validating curr_idx= 106 piefivepizza.com
+SMTP Failed for imperfectproduce.com
+
+Imperfect Produce : 
+[]
+validating curr_idx= 107 davidsoninn.com
+SMTP Failed for philzcoffee.com
+
+Philz Coffee : 
+[]
+validating curr_idx= 108 terrapinbeer.com
+
+Happy Family Brands (Nurture ) : 
+[]
+validating curr_idx= 109 madgreens.com
+SMTP Failed for davidsoninn.com
+
+Davidson Village Inn  : 
+[]
+validating curr_idx= 110 rpxcorp.com
+SMTP Failed for heartflow.com
+
+Heartflow,  : 
+[]
+validating curr_idx= 111 moes.com
+SMTP Failed for piefivepizza.com
+
+Pie Five Pizza Co : 
+[]
+validating curr_idx= 112 eathere.com
+CATCHALL for + eathere.com
+
+Moe'S Southwest Grill : 
+['info@eathere.com']
+validating curr_idx= 113 monaco-dc.com
+SMTP Failed for madgreens.com
+
+Terrapin Beer Co. : 
+[]
+validating curr_idx= 114 bunn.com
+SMTP Failed for rpxcorp.com
+
+Mad Greens - Eat Better : 
+[]
+validating curr_idx= 115 zevia.com
+SMTP Failed for monaco-dc.com
+
+Eat Here Brands : 
+[]
+validating curr_idx= 116 http://ehsandwich.com
+DNS Failed for http://ehsandwich.com
+DNS Failed for http://ehsandwich.com
+SMTP Failed for http://ehsandwich.com
+
+Zevia : 
+[]
+validating curr_idx= 117 plumorganics.com
+CATCHALL for + terrapinbeer.com
+
+ : 
+['info@terrapinbeer.com']
+validating curr_idx= 118 com/owyn
+DNS Failed for com/owyn
+DNS Failed for com/owyn
+SMTP Failed for com/owyn
+
+Plum Organics : 
+[]
+validating curr_idx= 119 http://phoenixhospitalitygroup.com
+DNS Failed for http://phoenixhospitalitygroup.com
+DNS Failed for http://phoenixhospitalitygroup.com
+SMTP Failed for http://phoenixhospitalitygroup.com
+
+Owyn : 
+[]
+validating curr_idx= 120 mgpingredients.com
+SMTP Failed for bunn.com
+
+Monaco Washington Dc, A Kimpton Hotel : 
+[]
+validating curr_idx= 121 tazikiscafe.com
+SMTP Failed for zevia.com
+
+Bunn : 
+[]
+validating curr_idx= 122 lightstonegroup.com
+SMTP Failed for tazikiscafe.com
+
+Mgp Ingredients : 
+[]
+validating curr_idx= 123 suncast.com
+
+Fiji Water : 
+['info@fijiwater.com', 'Julie.Silver@fijiwater.com']
+validating curr_idx= 124 riveronconsulting.com
+SMTP Failed for plumorganics.com
+
+East Hampton Sandwich Co. : 
+[]
+validating curr_idx= 125 http://oneconcierge.com
+DNS Failed for http://oneconcierge.com
+DNS Failed for http://oneconcierge.com
+SMTP Failed for http://oneconcierge.com
+
+Riveron : 
+[]
+validating curr_idx= 126 alamocement.com
+SMTP Failed for mgpingredients.com
+
+Phoenix Hospitality Group : 
+[]
+validating curr_idx= 127 beyondmeat.com
+SMTP Failed for suncast.com
+
+Lightstone Group : 
+[]
+validating curr_idx= 128 bmmlogistics.com
+SMTP Failed for riveronconsulting.com
+
+Suncast Corporation : 
+[]
+validating curr_idx= 129 https://cashbrewing.com
+DNS Failed for https://cashbrewing.com
+DNS Failed for https://cashbrewing.com
+SMTP Failed for https://cashbrewing.com
+
+Bmm Logistics : 
+[]
+validating curr_idx= 130 bubbakoosburritos.com
+SMTP Failed for lightstonegroup.com
+
+Taziki'S Mediterranean Cafe : 
+[]
+validating curr_idx= 131 transitvalley.com
+SMTP Failed for alamocement.com
+
+One Concierge : 
+[]
+validating curr_idx= 132 hashicorp.com
+
+Transit Valley Country Club : 
+['sales@hashicorp.com', 'Werner@hashicorp.com']
+validating curr_idx= 133 wontonfood.com
+SMTP Failed for beyondmeat.com
+
+Alamo Concrete Products, Ltd. : 
+[]
+validating curr_idx= 134 equatorcoffees.com
+SMTP Failed for transitvalley.com
+
+Bubbakoos Burritos : 
+[]
+validating curr_idx= 135 cpsrecruiter.com
+SMTP Failed for wontonfood.com
+
+Hashicorp : 
+[]
+validating curr_idx= 136 imperfectproduce.com
+validating curr_idx= 137 bevi.co
+SMTP Failed for equatorcoffees.com
+
+Wonton Food  : 
+[]
+validating curr_idx= 138 com/Home
+DNS Failed for com/Home
+DNS Failed for com/Home
+SMTP Failed for com/Home
+
+Bevi : 
+[]
+validating curr_idx= 139 getconga.com
+
+Rpx Corporation : 
+[]
+validating curr_idx= 140 ftsonline.com
+SMTP Failed for bmmlogistics.com
+
+Beyond Meat : 
+[]
+validating curr_idx= 141 cloverfoodlab.com
+SMTP Failed for imperfectproduce.com
+
+Cps Recruitment : 
+[]
+validating curr_idx= 142 nothingbundtcakes.com
+SMTP Failed for bevi.co
+
+Imperfect Produce : 
+[]
+validating curr_idx= 143 pecandeluxe.com
+SMTP Failed for cloverfoodlab.com
+
+Fortessa Tableware Solutions : 
+[]
+validating curr_idx= 144 https://naturebox.com/sub/jobs
+DNS Failed for https://naturebox.com/sub/jobs
+DNS Failed for https://naturebox.com/sub/jobs
+SMTP Failed for https://naturebox.com/sub/jobs
+
+Pecan Deluxe Candy Company : 
+[]
+validating curr_idx= 145 daily-harvest.com
+SMTP Failed for bubbakoosburritos.com
+
+Cash Brewing Company : 
+[]
+validating curr_idx= 146 chbriggs.com
+SMTP Failed for cpsrecruiter.com
+
+Equator Coffees & Teas : 
+[]
+validating curr_idx= 147 hosthotels.com
+SMTP Failed for nothingbundtcakes.com
+
+Clover Food Lab : 
+[]
+validating curr_idx= 148 marcusinvestments.com
+CATCHALL for + chbriggs.com
+
+Daily Harvest : 
+['info@chbriggs.com']
+validating curr_idx= 149 http://tag-restaurant.com
+DNS Failed for http://tag-restaurant.com
+DNS Failed for http://tag-restaurant.com
+SMTP Failed for http://tag-restaurant.com
+
+Marcus Investments : 
+[]
+validating curr_idx= 150 schlotzskys.com
+SMTP Failed for getconga.com
+
+Mizkan Group, R&B Foods And Mizkan Americas : 
+[]
+validating curr_idx= 151 ccbss.com
+SMTP Failed for daily-harvest.com
+
+Naturebox : 
+[]
+validating curr_idx= 152 auifinefoods.com
+SMTP Failed for hosthotels.com
+
+C.H. Briggs : 
+[]
+validating curr_idx= 153 auifinefoods.com
+SMTP Failed for marcusinvestments.com
+
+Host Hotels & Resorts : 
+[]
+validating curr_idx= 154 tchhome.com
+SMTP Failed for ftsonline.com
+
+Conga : 
+[]
+validating curr_idx= 155 vosgeschocolate.com
+SMTP Failed for auifinefoods.com
+
+Coca Cola Bottlers : 
+[]
+validating curr_idx= 156 boxedwaterisbetter.com
+SMTP Failed for auifinefoods.com
+
+Aui Fine Foods : 
+[]
+validating curr_idx= 157 rockstarenergy.com
+SMTP Failed for tchhome.com
+
+Aui Fine Foods : 
+[]
+validating curr_idx= 158 http://pearsonscandy.com
+DNS Failed for http://pearsonscandy.com
+DNS Failed for http://pearsonscandy.com
+SMTP Failed for http://pearsonscandy.com
+
+Rockstar Energy Drink : 
+[]
+validating curr_idx= 159 alpinerestaurantgroup.com
+SMTP Failed for generalatlantic.com
+
+General Atlantic : 
+[]
+validating curr_idx= 160 shiftgig.com
+
+Alpine Restaurant Group : 
+['info@shiftgig.com', 'Jeff.Vandeveer@shiftgig.com']
+validating curr_idx= 161 streamsongresort.com
+SMTP Failed for boxedwaterisbetter.com
+
+Vosges Haut-Chocolat : 
+[]
+validating curr_idx= 162 ashers.com
+SMTP Failed for alpinerestaurantgroup.com
+
+Pearson'S Candy Company : 
+[]
+validating curr_idx= 163 strategicequipment.com
+SMTP Failed for ccbss.com
+
+Schlotzsky's : 
+[]
+validating curr_idx= 164 togos.com
+SMTP Failed for vosgeschocolate.com
+
+Twinlab Consolidation Corporation : 
+[]
+validating curr_idx= 165 owletcare.com
+SMTP Failed for ashers.com
+
+Streamsong Resort : 
+[]
+validating curr_idx= 166 goodfoods.com
+SMTP Failed for rockstarenergy.com
+
+Boxed Water Is Better : 
+[]
+validating curr_idx= 167 nextech.com
+
+Togo'S Eateries : 
+['operations@owletcare.com', 'STaylor@owletcare.com']
+validating curr_idx= 168 nitta-gelatin.com
+SMTP Failed for strategicequipment.com
+
+Asher'S Chocolates : 
+[]
+validating curr_idx= 169 gallikers.com
+SMTP Failed for togos.com
+
+Trimark Strategic : 
+[]
+validating curr_idx= 170 blazepizza.com
+SMTP Failed for gallikers.com
+
+Nitta Gelatin Na : 
+[]
+validating curr_idx= 171 singerlewak.com
+
+Blaze Pizza : 
+['info@singerlewak.com']
+validating curr_idx= 172 hme.com
+SMTP Failed for goodfoods.com
+
+Owlet Baby Care : 
+[]
+validating curr_idx= 173 airpush.com
+SMTP Failed for nextech.com
+
+Good Foods Group : 
+[]
+validating curr_idx= 174 generalatlantic.com
+SMTP Failed for nitta-gelatin.com
+
+Nextech Systems : 
+[]
+validating curr_idx= 175 afesco.com
+SMTP Failed for hme.com
+
+Singerlewak  : 
+[]
+validating curr_idx= 176 http://abg-nyc.com
+DNS Failed for http://abg-nyc.com
+DNS Failed for http://abg-nyc.com
+SMTP Failed for http://abg-nyc.com
+
+Associated Food Equipment & Supplies : 
+[]
+validating curr_idx= 177 wixon.com
+SMTP Failed for blazepizza.com
+
+Galliker Dairy Co : 
+[]
+validating curr_idx= 178 redjacketresorts.com
+SMTP Failed for airpush.com
+
+Hme : 
+[]
+validating curr_idx= 179 capersdmc.com
+
+Red Jacket Resorts : 
+['info@capersdmc.com', 'Robert@capersdmc.com']
+validating curr_idx= 180 juice4u.com
+SMTP Failed for afesco.com
+
+General Atlantic : 
+[]
+validating curr_idx= 181 keyevents.com
+
+Shiftgig : 
+[]
+validating curr_idx= 182 cendyn.com
+SMTP Failed for redjacketresorts.com
+
+Wixon : 
+[]
+validating curr_idx= 183 peachdish.com
+SMTP Failed for juice4u.com
+
+Capers Dmc : 
+[]
+validating curr_idx= 184 newks.com
+SMTP Failed for keyevents.com
+
+Country Pure Foods : 
+[]
+validating curr_idx= 185 treehousefoods.com
+SMTP Failed for peachdish.com
+
+Cendyn : 
+[]
+validating curr_idx= 186 twistbioscience.com
+
+Authentic Brands Group : 
+[]
+validating curr_idx= 187 ccbss.com
+SMTP Failed for newks.com
+
+Peachdish : 
+[]
+validating curr_idx= 188 durachem.com
+SMTP Failed for cendyn.com
+
+Key Events : 
+[]
+validating curr_idx= 189 ihgplc.com
+DNS Failed for ihgplc.com
+DNS Failed for ihgplc.com
+SMTP Failed for ihgplc.com
+
+Dura Chemicals,  : 
+[]
+validating curr_idx= 190 zola.com
+SMTP Failed for twistbioscience.com
+
+Treehouse Foods : 
+[]
+validating curr_idx= 191 http://glencoemanagement.com
+DNS Failed for http://glencoemanagement.com
+DNS Failed for http://glencoemanagement.com
+SMTP Failed for http://glencoemanagement.com
+
+Zola.Com : 
+[]
+validating curr_idx= 192 goelinsights.com
+CATCHALL for + durachem.com
+
+Coca Cola Bottlers : 
+['info@durachem.com']
+validating curr_idx= 193 beckflavors.net
+SMTP Failed for zola.com
+
+Intercontinental Hotels Group : 
+[]
+validating curr_idx= 194 https://perspicacityllc.com
+DNS Failed for https://perspicacityllc.com
+DNS Failed for https://perspicacityllc.com
+SMTP Failed for https://perspicacityllc.com
+
+Beck Flavors : 
+[]
+validating curr_idx= 195 typsy.com
+SMTP Failed for goelinsights.com
+
+Glencoe Management : 
+[]
+validating curr_idx= 196 poloclub.net
+validating curr_idx= 197 greatwraps.com
+SMTP Failed for typsy.com
+
+Perspicacity : 
+[]
+validating curr_idx= 198 rmhfranchise.com
+
+Tag Restaurant Group : 
+[]
+validating curr_idx= 199 riveronconsulting.com
+SMTP Failed for ccbss.com
+
+Twist Bioscience : 
+[]
+validating curr_idx= 200 caliburgerintl.com
+SMTP Failed for beckflavors.net
+
+Goel Insights : 
+[]
+validating curr_idx= 201 carnegietechnologies.com
+SMTP Failed for greatwraps.com
+
+The Polo Club Of Boca Raton : 
+[]
+validating curr_idx= 202 motivaction.com
+SMTP Failed for rmhfranchise.com
+
+Great Wraps : 
+[]
+validating curr_idx= 203 jackmont.com
+SMTP Failed for riveronconsulting.com
+
+Rmh Franchise Corporation : 
+[]
+validating curr_idx= 204 rustyspizza.com/bakersfield/home
+DNS Failed for rustyspizza.com/bakersfield/home
+DNS Failed for rustyspizza.com/bakersfield/home
+SMTP Failed for rustyspizza.com/bakersfield/home
+
+Jackmont Hospitality : 
+[]
+validating curr_idx= 205 wqscc.com
+
+Riveron : 
+[]
+validating curr_idx= 206 uship.com/?r&#61;5926603
+DNS Failed for uship.com/?r&#61;5926603
+DNS Failed for uship.com/?r&#61;5926603
+SMTP Failed for uship.com/?r&#61;5926603
+
+Wendy'S Quality Supply Chain Cooperative : 
+[]
+validating curr_idx= 207 townofstratford.com
+SMTP Failed for jackmont.com
+
+Motivaction : 
+[]
+validating curr_idx= 208 wendys.com
+SMTP Failed for townofstratford.com
+
+Uship : 
+[]
+validating curr_idx= 209 beforebrands.com
+SMTP Failed for carnegietechnologies.com
+
+Caliburger : 
+[]
+validating curr_idx= 210 transifex.com
+
+Airpush,  : 
+[]
+validating curr_idx= 211 imperfectproduce.com
+SMTP Failed for motivaction.com
+
+Carnegie Technologies : 
+[]
+validating curr_idx= 212 prospect33.com
+SMTP Failed for wqscc.com
+
+Rusty'S Pizza Parlor  : 
+[]
+validating curr_idx= 213 http://fifthgroup.com
+DNS Failed for http://fifthgroup.com
+DNS Failed for http://fifthgroup.com
+SMTP Failed for http://fifthgroup.com
+
+Prospect 33 : 
+[]
+validating curr_idx= 214 http://drhc.com
+DNS Failed for http://drhc.com
+DNS Failed for http://drhc.com
+SMTP Failed for http://drhc.com
+
+Fifth Group Restaurants : 
+[]
+validating curr_idx= 215 perfectbar.com
+SMTP Failed for pecandeluxe.com
+
+Nothing Bundt Cakes : 
+[]
+validating curr_idx= 216 http://bevolutiongroup.com
+DNS Failed for http://bevolutiongroup.com
+DNS Failed for http://bevolutiongroup.com
+SMTP Failed for http://bevolutiongroup.com
+
+Perfect Bar : 
+[]
+validating curr_idx= 217 atkins.com
+SMTP Failed for beforebrands.com
+
+The Wendy'S Company : 
+[]
+validating curr_idx= 218 adaptiveinsights.com
+SMTP Failed for transifex.com
+
+Before Brands : 
+[]
+validating curr_idx= 219 tomsurban.com
+SMTP Failed for imperfectproduce.com
+
+Transifex : 
+[]
+validating curr_idx= 220 http://starhg.com
+DNS Failed for http://starhg.com
+DNS Failed for http://starhg.com
+SMTP Failed for http://starhg.com
+
+Tom'S Urban : 
+[]
+validating curr_idx= 221 rmc-chi.com
+SMTP Failed for prospect33.com
+
+Imperfect Produce : 
+[]
+validating curr_idx= 222 shiftgig.com
+SMTP Failed for perfectbar.com
+
+Diamondrock Hospitality : 
+[]
+validating curr_idx= 223 mightyswell.com
+CATCHALL for + tomsurban.com
+
+Adaptive Insights : 
+['info@tomsurban.com']
+validating curr_idx= 224 gothamgreens.com
+SMTP Failed for adaptiveinsights.com
+
+Atkins Nutritionals : 
+[]
+validating curr_idx= 225 oakhillcc.com
+SMTP Failed for rmc-chi.com
+
+Star Hospitality Group : 
+[]
+validating curr_idx= 226 mirabel.com
+SMTP Failed for shiftgig.com
+
+R&M Consulting : 
+[]
+validating curr_idx= 227 sunevamedical.com
+SMTP Failed for wendys.com
+
+Town Of Stratford, Ct : 
+[]
+validating curr_idx= 228 brewbound.com/news/anheuser-busch-inbev-reorganizes-high-end-division
+DNS Failed for brewbound.com/news/anheuser-busch-inbev-reorganizes-high-end-division
+DNS Failed for brewbound.com/news/anheuser-busch-inbev-reorganizes-high-end-division
+SMTP Failed for brewbound.com/news/anheuser-busch-inbev-reorganizes-high-end-division
+
+Suneva Medical : 
+[]
+validating curr_idx= 229 ljsilvers.com
+SMTP Failed for mightyswell.com
+
+Shiftgig : 
+[]
+validating curr_idx= 230 dairyqueen.com
+DNS Failed for dairyqueen.com
+DNS Failed for dairyqueen.com
+SMTP Failed for dairyqueen.com
+
+Long John Silver'S : 
+[]
+validating curr_idx= 231 madeinnature.com
+
+Gotham Greens : 
+['info@oakhillcc.com']
+validating curr_idx= 232 sasademarle.com
+SMTP Failed for ljsilvers.com
+
+Anheuser-Busch - The Craftbu Division : 
+[]
+validating curr_idx= 233 https://sasteelco.com
+DNS Failed for https://sasteelco.com
+DNS Failed for https://sasteelco.com
+SMTP Failed for https://sasteelco.com
+
+Sasa Demarle : 
+[]
+validating curr_idx= 234 goodfoods.com
+SMTP Failed for gothamgreens.com
+
+Mighty Swell : 
+[]
+validating curr_idx= 235 http://mondaynightbrewing.com
+DNS Failed for http://mondaynightbrewing.com
+DNS Failed for http://mondaynightbrewing.com
+SMTP Failed for http://mondaynightbrewing.com
+
+Good Foods Group : 
+[]
+validating curr_idx= 236 greencourtepartners.com
+SMTP Failed for mirabel.com
+
+Oak Hill Country Club : 
+[]
+validating curr_idx= 237 steviescatering.com
+SMTP Failed for sunevamedical.com
+
+Mirabel Golf Club : 
+[]
+validating curr_idx= 238 rivian.com
+
+Stevie'S Aviation Catering : 
+['info@rivian.com']
+validating curr_idx= 239 ronnoco.com
+SMTP Failed for madeinnature.com
+
+Dairy Queen : 
+[]
+validating curr_idx= 240 hme.com
+SMTP Failed for poloclub.net
+
+Typsy : 
+[]
+validating curr_idx= 241 virginhotels.com
+SMTP Failed for sasademarle.com
+
+Madhava Natural Sweeteners : 
+[]
+validating curr_idx= 242 aafcpa.com
+SMTP Failed for ronnoco.com
+
+Rivian : 
+[]
+validating curr_idx= 243 wichcraft.com
+SMTP Failed for goodfoods.com
+
+San Antonio Steel Company : 
+[]
+validating curr_idx= 244 bentleymills.com
+SMTP Failed for hme.com
+
+Ronnoco Coffee : 
+[]
+validating curr_idx= 245 com/index
+DNS Failed for com/index
+DNS Failed for com/index
+SMTP Failed for com/index
+
+Bentley Mills : 
+[]
+validating curr_idx= 246 generationbio.com
+CATCHALL for + virginhotels.com
+
+Hme : 
+['info@virginhotels.com']
+validating curr_idx= 247 kohanacoffee.com
+SMTP Failed for steviescatering.com
+
+Green Courte Partners : 
+[]
+validating curr_idx= 248 http://willys.com
+DNS Failed for http://willys.com
+DNS Failed for http://willys.com
+SMTP Failed for http://willys.com
+
+Kohana Coffee : 
+[]
+validating curr_idx= 249 eatpre.com
+
+Monday Night Brewing : 
+[]
+validating curr_idx= 250 computype.com
+SMTP Failed for generationbio.com
+
+Lenny'S Sub Shop : 
+[]
+validating curr_idx= 251 craftmarkbakery.com
+SMTP Failed for kohanacoffee.com
+
+Generation Bio : 
+[]
+validating curr_idx= 252 hosthotels.com
+SMTP Failed for eatpre.com
+
+Willy'S Mexicana Grill : 
+[]
+validating curr_idx= 253 littlepassports.com
+SMTP Failed for wichcraft.com
+
+Aafcpas : 
+[]
+validating curr_idx= 254 redjacketresorts.com
+
+Little Passports : 
+['info@redjacketresorts.com']
+validating curr_idx= 255 equilar.com
+SMTP Failed for hosthotels.com
+
+Craftmark Bakery : 
+[]
+validating curr_idx= 256 belleepicurean.com
+SMTP Failed for littlepassports.com
+
+Host Hotels & Resorts : 
+[]
+validating curr_idx= 257 soaprojects.com
+SMTP Failed for equilar.com
+
+Red Jacket Resorts : 
+[]
+validating curr_idx= 258 foodsgalore.com
+SMTP Failed for craftmarkbakery.com
+
+Computype : 
+[]
+validating curr_idx= 259 http://tindrumasiankitchen.com
+DNS Failed for http://tindrumasiankitchen.com
+DNS Failed for http://tindrumasiankitchen.com
+SMTP Failed for http://tindrumasiankitchen.com
+
+Foods Galore : 
+[]
+validating curr_idx= 260 theedgewater.com
+SMTP Failed for belleepicurean.com
+
+Equilar : 
+[]
+validating curr_idx= 261 zpizza.com
+SMTP Failed for bentleymills.com
+
+Wichcraft : 
+[]
+validating curr_idx= 262 sandiego.org
+SMTP Failed for soaprojects.com
+
+Belle Epicurean : 
+[]
+validating curr_idx= 263 http://wtrmlnwtr.com
+DNS Failed for http://wtrmlnwtr.com
+DNS Failed for http://wtrmlnwtr.com
+SMTP Failed for http://wtrmlnwtr.com
+
+San Diego Tourism Authority : 
+[]
+validating curr_idx= 264 clinicomp.com
+SMTP Failed for treehousefoods.com
+
+Newk'S Eatery : 
+[]
+validating curr_idx= 265 fosscare.org
+SMTP Failed for foodsgalore.com
+
+Soaprojects : 
+[]
+validating curr_idx= 266 gingerpeople.com
+SMTP Failed for zpizza.com
+
+The Edgewater Madison : 
+[]
+validating curr_idx= 267 https://risckys.com
+DNS Failed for https://risckys.com
+DNS Failed for https://risckys.com
+SMTP Failed for https://risckys.com
+
+Ginger People Group : 
+[]
+validating curr_idx= 268 https://mindtouch.com
+DNS Failed for https://mindtouch.com
+DNS Failed for https://mindtouch.com
+SMTP Failed for https://mindtouch.com
+
+Riscky'S Bbq : 
+[]
+validating curr_idx= 269 steakescape.com
+SMTP Failed for sandiego.org
+
+Zpizza International : 
+[]
+validating curr_idx= 270 ilovelindsay.com
+DNS Failed for ilovelindsay.com
+DNS Failed for ilovelindsay.com
+SMTP Failed for ilovelindsay.com
+
+Steak Escape : 
+[]
+validating curr_idx= 271 dartagnan.com
+validating curr_idx= 272 sleepyhollowcc.org
+CATCHALL for + steakescape.com
+
+Mindtouch : 
+['info@steakescape.com']
+validating curr_idx= 273 whitleypenn.com
+SMTP Failed for clinicomp.com
+
+Wtrmln Wtr : 
+[]
+validating curr_idx= 274 http://goldenchick.com
+DNS Failed for http://goldenchick.com
+DNS Failed for http://goldenchick.com
+SMTP Failed for http://goldenchick.com
+
+Whitley Penn : 
+[]
+validating curr_idx= 275 eastcoastwingsfranchise.com
+DNS Failed for eastcoastwingsfranchise.com
+DNS Failed for eastcoastwingsfranchise.com
+SMTP Failed for eastcoastwingsfranchise.com
+
+Golden Chick : 
+[]
+validating curr_idx= 276 midamcorp.com
+SMTP Failed for fosscare.org
+
+Clinicomp, Intl. : 
+[]
+validating curr_idx= 277 https://wingsetc.com
+DNS Failed for https://wingsetc.com
+DNS Failed for https://wingsetc.com
+SMTP Failed for https://wingsetc.com
+
+Midamerica Hotels Corporation : 
+[]
+validating curr_idx= 278 espresso.events
+SMTP Failed for theedgewater.com
+
+Tin Drum Asiacafe : 
+[]
+validating curr_idx= 279 nksdistributors.com
+SMTP Failed for dartagnan.com
+
+Bell-Carter Foods : 
+[]
+validating curr_idx= 280 nokidhungry.org
+DNS Failed for nokidhungry.org
+DNS Failed for nokidhungry.org
+SMTP Failed for nokidhungry.org
+
+N.K.S. Distributor'S  : 
+[]
+validating curr_idx= 281 papaginos.com
+SMTP Failed for sleepyhollowcc.org
+
+D'Artagnan : 
+[]
+validating curr_idx= 282 smashmallow.com
+SMTP Failed for whitleypenn.com
+
+Sleepy Hollow Country Club : 
+[]
+validating curr_idx= 283 triumvirfinancial.com
+SMTP Failed for midamcorp.com
+
+East Coast Wings + Grill : 
+[]
+validating curr_idx= 284 nexushospitality.com
+SMTP Failed for gingerpeople.com
+
+Foss Home And Village : 
+[]
+validating curr_idx= 285 fiveguys.com
+SMTP Failed for nksdistributors.com
+
+Espresso Events Las Vegas, Orlando, Washington, Dc : 
+[]
+validating curr_idx= 286 http://provi.com
+DNS Failed for http://provi.com
+DNS Failed for http://provi.com
+SMTP Failed for http://provi.com
+
+Five Guys Enterprises : 
+[]
+validating curr_idx= 287 https://fishcitygrill.com
+DNS Failed for https://fishcitygrill.com
+DNS Failed for https://fishcitygrill.com
+SMTP Failed for https://fishcitygrill.com
+
+Provi : 
+[]
+validating curr_idx= 288 stayalfred.com/?utm_source&#61;linkedin&amp;utm_medium&#61;social&amp;utm_campaign&#61;companyprofile
+DNS Failed for stayalfred.com/?utm_source&#61;linkedin&amp;utm_medium&#61;social&amp;utm_campaign&#61;companyprofile
+DNS Failed for stayalfred.com/?utm_source&#61;linkedin&amp;utm_medium&#61;social&amp;utm_campaign&#61;companyprofile
+SMTP Failed for stayalfred.com/?utm_source&#61;linkedin&amp;utm_medium&#61;social&amp;utm_campaign&#61;companyprofile
+
+Fish City Grill : 
+[]
+validating curr_idx= 289 stefanirestaurants.com
+CATCHALL for + fiveguys.com
+
+Nexus Hospitality : 
+['info@fiveguys.com']
+validating curr_idx= 290 beckflavors.net
+SMTP Failed for triumvirfinancial.com
+
+Smashmallow : 
+[]
+validating curr_idx= 291 blackbeardiner.com
+SMTP Failed for nexushospitality.com
+
+Triumvir Financial : 
+[]
+validating curr_idx= 292 conferencedirect.com
+SMTP Failed for stefanirestaurants.com
+
+Stay Alfred : 
+[]
+validating curr_idx= 293 hosthotels.com
+
+Share Our Strength : 
+[]
+validating curr_idx= 294 http://yumearth.com
+DNS Failed for http://yumearth.com
+DNS Failed for http://yumearth.com
+SMTP Failed for http://yumearth.com
+
+Host Hotels & Resorts : 
+[]
+validating curr_idx= 295 reloquest.com
+SMTP Failed for smashmallow.com
+
+Papa Ginos  : 
+[]
+validating curr_idx= 296 guenergy.com
+SMTP Failed for blackbeardiner.com
+
+Beck Flavors : 
+[]
+validating curr_idx= 297 kahalabrands.com
+SMTP Failed for conferencedirect.com
+
+Black Bear Diner  : 
+[]
+validating curr_idx= 298 gallerycarts.com
+SMTP Failed for espresso.events
+
+Wings Etc. : 
+[]
+validating curr_idx= 299 wegotsoccer.com
+SMTP Failed for hosthotels.com
+
+Conferencedirect : 
+[]
+validating curr_idx= 300 organicvalley.coop
+SMTP Failed for beckflavors.net
+
+Navy Pier : 
+[]
+validating curr_idx= 301 http://saladandgo.com
+DNS Failed for http://saladandgo.com
+DNS Failed for http://saladandgo.com
+SMTP Failed for http://saladandgo.com
+
+Organic Valley : 
+[]
+validating curr_idx= 302 http://burgerfi.com
+DNS Failed for http://burgerfi.com
+DNS Failed for http://burgerfi.com
+SMTP Failed for http://burgerfi.com
+
+Salad And Go : 
+[]
+validating curr_idx= 303 prospect33.com
+SMTP Failed for reloquest.com
+
+Yumearth : 
+[]
+validating curr_idx= 304 limefreshmexicangrill.com
+SMTP Failed for wegotsoccer.com
+
+Gallery: Carts.Kiosks.Portables. : 
+[]
+validating curr_idx= 305 http://liquid-consulting.com
+DNS Failed for http://liquid-consulting.com
+DNS Failed for http://liquid-consulting.com
+SMTP Failed for http://liquid-consulting.com
+
+Lime Fresh Mexican Grill : 
+[]
+validating curr_idx= 306 bandidosmecxicanrestaurantri.com
+DNS Failed for bandidosmecxicanrestaurantri.com
+DNS Failed for bandidosmecxicanrestaurantri.com
+SMTP Failed for bandidosmecxicanrestaurantri.com
+
+Liquid Consulting : 
+[]
+validating curr_idx= 307 tokyojoes.com
+
+Bandidos Mexican Restaurant : 
+['office@tokyojoes.com', 'Erin@tokyojoes.com']
+validating curr_idx= 308 onceuponafarmorganics.com
+SMTP Failed for prospect33.com
+
+Burger Fi : 
+[]
+validating curr_idx= 309 perfectbar.com
+SMTP Failed for limefreshmexicangrill.com
+
+Prospect 33 : 
+[]
+validating curr_idx= 310 nexenta.com
+SMTP Failed for guenergy.com
+
+Reloquest : 
+[]
+validating curr_idx= 311 foodbuy.com
+SMTP Failed for kahalabrands.com
+
+Gu Energy Labs : 
+[]
+validating curr_idx= 312 tazikiscafe.com
+SMTP Failed for gallerycarts.com
+
+Kahala Brands : 
+[]
+validating curr_idx= 313 rockfish.com
+SMTP Failed for organicvalley.coop
+
+Wegotsoccer : 
+[]
+validating curr_idx= 314 alhworld.com
+SMTP Failed for atkins.com
+
+Bevolution Group : 
+[]
+validating curr_idx= 315 https://impossiblefoods.com
+DNS Failed for https://impossiblefoods.com
+DNS Failed for https://impossiblefoods.com
+SMTP Failed for https://impossiblefoods.com
+
+Associated Luxury Hotels : 
+[]
+validating curr_idx= 316 dostoros.com
+SMTP Failed for perfectbar.com
+
+Once Upon A Farm : 
+[]
+validating curr_idx= 317 celestialseasonings.com
+
+Foodbuy Usa : 
+[]
+validating curr_idx= 318 bluestonelane.com
+SMTP Failed for nexenta.com
+
+Perfect Bar : 
+[]
+validating curr_idx= 319 allianceresourcegroup.com
+SMTP Failed for rockfish.com
+
+Taziki'S Mediterranean Cafe : 
+[]
+validating curr_idx= 320 downtownproject.com
+SMTP Failed for onceuponafarmorganics.com
+
+Tokyo Joe'S : 
+[]
+validating curr_idx= 321 http://lapecorabianca.com
+DNS Failed for http://lapecorabianca.com
+DNS Failed for http://lapecorabianca.com
+SMTP Failed for http://lapecorabianca.com
+
+Downtown Project : 
+[]
+validating curr_idx= 322 sanctuaryoncamelback
+DNS Failed for sanctuaryoncamelback
+DNS Failed for sanctuaryoncamelback
+SMTP Failed for sanctuaryoncamelback
+
+La Pecora Bianca : 
+[]
+validating curr_idx= 323 jetsetsports.com
+SMTP Failed for dostoros.com
+
+Impossible Foods : 
+[]
+validating curr_idx= 324 steviescatering.com
+SMTP Failed for celestialseasonings.com
+
+Dos Toros Taqueria : 
+[]
+validating curr_idx= 325 onyxcentersource.com
+SMTP Failed for bluestonelane.com
+
+Celestial Seasonings Tea : 
+[]
+validating curr_idx= 326 moes.com
+SMTP Failed for foodbuy.com
+
+Nexenta Systems : 
+[]
+validating curr_idx= 327 visitcatalinaisland.com
+DNS Failed for visitcatalinaisland.com
+DNS Failed for visitcatalinaisland.com
+SMTP Failed for visitcatalinaisland.com
+
+Moe'S Southwest Grill : 
+[]
+validating curr_idx= 328 juniorscheesecake.com
+SMTP Failed for juniorscheesecake.com
+
+Catalina Island Company : 
+[]
+validating curr_idx= 329 http://galaxydesserts.com
+DNS Failed for http://galaxydesserts.com
+DNS Failed for http://galaxydesserts.com
+SMTP Failed for http://galaxydesserts.com
+
+Juniors Cheesecake  : 
+[]
+validating curr_idx= 330 earlofsandwichusa.com
+SMTP Failed for earlofsandwichusa.com
+
+Galaxy Desserts : 
+[]
+validating curr_idx= 331 hostway.com
+SMTP Failed for downtownproject.com
+
+Alliance Resource Group : 
+[]
+validating curr_idx= 332 enginfotech.com
+SMTP Failed for alhworld.com
+
+Rockfish Seafood Grill : 
+[]
+validating curr_idx= 333 dunnsriverbrands.com
+SMTP Failed for allianceresourcegroup.com
+
+Bluestone Lane : 
+[]
+validating curr_idx= 334 airxpanders.com
+SMTP Failed for jetsetsports.com
+
+Sanctuary Camelback Mountain : 
+[]
+validating curr_idx= 335 dairyqueen.com
+DNS Failed for dairyqueen.com
+DNS Failed for dairyqueen.com
+SMTP Failed for dairyqueen.com
+
+Airxpanders : 
+[]
+validating curr_idx= 336 urbanecafe.com
+
+Dairy Queen : 
+['info@urbanecafe.com']
+validating curr_idx= 337 simplemills.com
+SMTP Failed for steviescatering.com
+
+Jet Set Sports : 
+[]
+validating curr_idx= 338 floridafood.com
+SMTP Failed for onyxcentersource.com
+
+Stevie'S Aviation Catering : 
+[]
+validating curr_idx= 339 alfalfas.com
+SMTP Failed for hostway.com
+
+Earl Of Sandwich : 
+[]
+validating curr_idx= 340 rockviewfarms.com
+SMTP Failed for enginfotech.com
+
+Hostway Services,  : 
+[]
+validating curr_idx= 341 magnoliabakery.com
+SMTP Failed for dunnsriverbrands.com
+
+Eng Infotech Corp. : 
+[]
+validating curr_idx= 342 solutiontree.com
+
+Florida Food Products : 
+[]
+validating curr_idx= 343 http://tonyromas.com
+DNS Failed for http://tonyromas.com
+DNS Failed for http://tonyromas.com
+SMTP Failed for http://tonyromas.com
+
+Solution Tree : 
+[]
+validating curr_idx= 344 togos.com
+SMTP Failed for airxpanders.com
+
+Dunn'S River Brands : 
+[]
+validating curr_idx= 345 armada.net
+SMTP Failed for aafcpa.com
+
+Virgin Hotels : 
+[]
+validating curr_idx= 346 https://altaplanning.com
+DNS Failed for https://altaplanning.com
+DNS Failed for https://altaplanning.com
+SMTP Failed for https://altaplanning.com
+
+Armada Supply Chain Solutions : 
+[]
+validating curr_idx= 347 findyourshaka.com
+SMTP Failed for simplemills.com
+
+Urbane Cafe : 
+[]
+validating curr_idx= 348 bonedaddys.com
+SMTP Failed for floridafood.com
+
+Simple Mills : 
+[]
+validating curr_idx= 349 southernhillscc.com
+SMTP Failed for togos.com
+
+Romacorp : 
+[]
+validating curr_idx= 350 factory-llc.com
+SMTP Failed for findyourshaka.com
+
+Alta Planning + Design : 
+[]
+validating curr_idx= 351 performancepeople.com
+SMTP Failed for rockviewfarms.com
+
+Alfalfa'S Market : 
+[]
+validating curr_idx= 352 dsfcpa.com
+CATCHALL for + dsfcpa.com
+
+Naumann Hobbs Material Handling : 
+['info@dsfcpa.com']
+validating curr_idx= 353 fisherislandclub.com
+SMTP Failed for magnoliabakery.com
+
+Rockview Farms : 
+[]
+validating curr_idx= 354 scheidfamilywines.com
+SMTP Failed for bonedaddys.com
+
+Shaka Bowl : 
+[]
+validating curr_idx= 355 biolase.com
+SMTP Failed for solutiontree.com
+
+Magnolia Bakery : 
+[]
+validating curr_idx= 356 pizzafire.com
+SMTP Failed for southernhillscc.com
+
+Bone Daddy'S House Of Smoke : 
+[]
+validating curr_idx= 357 fatbrands.com
+SMTP Failed for computype.com
+
+Pre Brands : 
+[]
+validating curr_idx= 358 frickmeats.com
+SMTP Failed for fisherislandclub.com
+
+Downey,Sweeney, Fitzgerald & Co. Pc : 
+[]
+validating curr_idx= 359 oasiscollections.com
+SMTP Failed for pizzafire.com
+
+Biolase : 
+[]
+validating curr_idx= 360 http://epicburger.com
+DNS Failed for http://epicburger.com
+DNS Failed for http://epicburger.com
+SMTP Failed for http://epicburger.com
+
+Oasis : 
+[]
+validating curr_idx= 361 http://ainsworthpets.com
+DNS Failed for http://ainsworthpets.com
+DNS Failed for http://ainsworthpets.com
+SMTP Failed for http://ainsworthpets.com
+
+Epic Burger : 
+[]
+validating curr_idx= 362 singerlewak.com
+CATCHALL for + fatbrands.com
+
+Pizzafire : 
+['info@fatbrands.com']
+validating curr_idx= 363 mgpingredients.com
+SMTP Failed for factory-llc.com
+
+Southern Hills Country Club : 
+[]
+validating curr_idx= 364 wahlburgersrestaurant.com
+SMTP Failed for frickmeats.com
+
+Fat Brands  : 
+[]
+validating curr_idx= 365 hillpartners.com
+SMTP Failed for oasiscollections.com
+
+Frick'S Quality Meats : 
+[]
+validating curr_idx= 366 mybenefits.me
+SMTP Failed for biolase.com
+
+Scheid Family Wines : 
+[]
+validating curr_idx= 367 tabasco.com
+validating curr_idx= 368 lacolombe.com
+SMTP Failed for wahlburgersrestaurant.com
+
+Mgp Ingredients : 
+[]
+validating curr_idx= 369 cloverlanddairy.com
+
+Onyx Centersource : 
+['info@moes.com']
+validating curr_idx= 370 http://slsbeverlyhillshotel.com
+DNS Failed for http://slsbeverlyhillshotel.com
+DNS Failed for http://slsbeverlyhillshotel.com
+SMTP Failed for http://slsbeverlyhillshotel.com
+
+Cloverland / Greenspring Dairy : 
+[]
+validating curr_idx= 371 midamcorp.com
+SMTP Failed for hillpartners.com
+
+Wahlburgers : 
+[]
+validating curr_idx= 372 nksdistributors.com
+SMTP Failed for mybenefits.me
+
+Hill & Partners Branded Environments : 
+[]
+validating curr_idx= 373 novelloboca.com
+SMTP Failed for singerlewak.com
+
+Ainsworth Pet Nutrition : 
+[]
+validating curr_idx= 374 clubgetaway.com
+SMTP Failed for mgpingredients.com
+
+Singerlewak  : 
+[]
+validating curr_idx= 375 meliahotelsinternational.com
+SMTP Failed for lacolombe.com
+
+Mcilhenny Company : 
+[]
+validating curr_idx= 376 eatnoon.com
+SMTP Failed for cloverlanddairy.com
+
+La Colombe Coffee Roasters : 
+[]
+validating curr_idx= 377 http://provi.com
+DNS Failed for http://provi.com
+DNS Failed for http://provi.com
+SMTP Failed for http://provi.com
+
+Noon Mediterranean : 
+[]
+validating curr_idx= 378 bordendairy.com
+SMTP Failed for midamcorp.com
+
+Sls Hotel, A Luxury Collection Hotel, Beverly Hills : 
+[]
+validating curr_idx= 379 bellagreen.com
+SMTP Failed for nksdistributors.com
+
+Midamerica Hotels Corporation : 
+[]
+validating curr_idx= 380 geckohospitality.com
+
+Fisher Island Club : 
+[]
+validating curr_idx= 381 parccorniche.com
+SMTP Failed for tabasco.com
+
+My Benefits & First Party Administrator : 
+[]
+validating curr_idx= 382 karsnuts.com
+SMTP Failed for meliahotelsinternational.com
+
+Club Getaway : 
+[]
+validating curr_idx= 383 gallerycarts.com
+SMTP Failed for bellagreen.com
+
+Borden Dairy Company : 
+[]
+validating curr_idx= 384 woodlandfoods.com
+SMTP Failed for geckohospitality.com
+
+Bellagreen : 
+[]
+validating curr_idx= 385 runa.org
+SMTP Failed for parccorniche.com
+
+Gecko Hospitality (Corporate) : 
+[]
+validating curr_idx= 386 runa.org
+SMTP Failed for clubgetaway.com
+
+Novello Restaurant & Bar : 
+[]
+validating curr_idx= 387 wegotsoccer.com
+
+N.K.S. Distributor'S  : 
+['info@novelloboca.com', 'Marco@novelloboca.com']
+validating curr_idx= 388 co
+DNS Failed for co
+DNS Failed for co
+SMTP Failed for co
+
+Wegotsoccer : 
+[]
+validating curr_idx= 389 bluemoonpizza.com
+SMTP Failed for eatnoon.com
+
+Melia Hotels International : 
+[]
+validating curr_idx= 390 limefreshmexicangrill.com
+SMTP Failed for bordendairy.com
+
+Provi : 
+[]
+validating curr_idx= 391 digiday.com
+SMTP Failed for runa.org
+
+Woodland Foods : 
+[]
+validating curr_idx= 392 https://rakutensl.com
+DNS Failed for https://rakutensl.com
+DNS Failed for https://rakutensl.com
+SMTP Failed for https://rakutensl.com
+
+Digiday : 
+[]
+validating curr_idx= 393 gallellire.com
+SMTP Failed for runa.org
+
+Runa : 
+[]
+validating curr_idx= 394 clustertruck.com
+SMTP Failed for wegotsoccer.com
+
+Runa : 
+[]
+validating curr_idx= 395 virginhotels.com
+SMTP Failed for gallerycarts.com
+
+Kar'S Nuts : 
+[]
+validating curr_idx= 396 fancyfoodscom
+DNS Failed for fancyfoodscom
+DNS Failed for fancyfoodscom
+SMTP Failed for fancyfoodscom
+
+Virgin Hotels : 
+[]
+validating curr_idx= 397 cinnabon.com
+SMTP Failed for bluemoonpizza.com
+
+Arcop : 
+[]
+validating curr_idx= 398 http://tacojohns.com
+DNS Failed for http://tacojohns.com
+DNS Failed for http://tacojohns.com
+SMTP Failed for http://tacojohns.com
+
+Cinnabon : 
+[]
+validating curr_idx= 399 flavorproducers.com
+SMTP Failed for limefreshmexicangrill.com
+
+Blue Moon Pizza : 
+[]
+validating curr_idx= 400 seviroli.com
+SMTP Failed for digiday.com
+
+Lime Fresh Mexican Grill : 
+[]
+validating curr_idx= 401 kriyahotels.com
+SMTP Failed for woodlandfoods.com
+
+Gallery: Carts.Kiosks.Portables. : 
+[]
+validating curr_idx= 402 enginfotech.com
+
+Fancy Foods  : 
+[]
+validating curr_idx= 403 coasthotels.com
+SMTP Failed for clustertruck.com
+
+Gallelli Real Estate : 
+[]
+validating curr_idx= 404 zaxbys.com/?gclid=CjwKCAjw5ZPcBRBkEiwA-avvk8vadoiIvS6imTq3CWsXguG5FcNoToP9655UmrqkWmr-SOMDWtY5KRoCA5sQAvD_BwE
+DNS Failed for zaxbys.com/?gclid=CjwKCAjw5ZPcBRBkEiwA-avvk8vadoiIvS6imTq3CWsXguG5FcNoToP9655UmrqkWmr-SOMDWtY5KRoCA5sQAvD_BwE
+DNS Failed for zaxbys.com/?gclid=CjwKCAjw5ZPcBRBkEiwA-avvk8vadoiIvS6imTq3CWsXguG5FcNoToP9655UmrqkWmr-SOMDWtY5KRoCA5sQAvD_BwE
+SMTP Failed for zaxbys.com/?gclid=CjwKCAjw5ZPcBRBkEiwA-avvk8vadoiIvS6imTq3CWsXguG5FcNoToP9655UmrqkWmr-SOMDWtY5KRoCA5sQAvD_BwE
+
+Coast Hospitality : 
+[]
+validating curr_idx= 405 serendipitylabs.com
+SMTP Failed for kriyahotels.com
+
+Seviroli Foods : 
+[]
+validating curr_idx= 406 necco.com
+SMTP Failed for gallellire.com
+
+Rakuten Super Logistics : 
+[]
+validating curr_idx= 407 impossiblefoods.com
+
+Zax, (Zaxbys) : 
+['contact@serendipitylabs.com']
+validating curr_idx= 408 invuity.com
+SMTP Failed for virginhotels.com
+
+Clustertruck : 
+[]
+validating curr_idx= 409 http://argconcepts.com
+DNS Failed for http://argconcepts.com
+DNS Failed for http://argconcepts.com
+SMTP Failed for http://argconcepts.com
+
+Invuity : 
+[]
+validating curr_idx= 410 simplemills.com
+SMTP Failed for flavorproducers.com
+
+Taco John'S International : 
+[]
+validating curr_idx= 411 whg.com
+SMTP Failed for enginfotech.com
+
+Kriya Hotels : 
+[]
+validating curr_idx= 412 3eyetech.com
+SMTP Failed for impossiblefoods.com
+
+New England Confectionery Company (Necco) : 
+[]
+validating curr_idx= 413 joyridecoffeedistributors.com
+DNS Failed for joyridecoffeedistributors.com
+DNS Failed for joyridecoffeedistributors.com
+SMTP Failed for joyridecoffeedistributors.com
+
+3Eye Technologies : 
+[]
+validating curr_idx= 414 https://altaplanning.com
+DNS Failed for https://altaplanning.com
+DNS Failed for https://altaplanning.com
+SMTP Failed for https://altaplanning.com
+
+Joyride : 
+[]
+validating curr_idx= 415 smoothieking.com
+CATCHALL for + whg.com
+
+Simple Mills : 
+['info@whg.com']
+validating curr_idx= 416 http://southernhillscc.com
+DNS Failed for http://southernhillscc.com
+DNS Failed for http://southernhillscc.com
+SMTP Failed for http://southernhillscc.com
+
+Smoothie King (Skfi) : 
+[]
+validating curr_idx= 417 fabtex.com
+SMTP Failed for invuity.com
+
+Impossible Foods : 
+[]
+validating curr_idx= 418 uniprofoodservice.com
+SMTP Failed for simplemills.com
+
+Apheleia Restaurant Group : 
+[]
+validating curr_idx= 419 blackriflecoffee.com
+SMTP Failed for necco.com
+
+Serendipity Labs : 
+[]
+validating curr_idx= 420 sppirx.com
+CATCHALL for + 3eyetech.com
+
+Westmont Hospitality Group : 
+['info@3eyetech.com']
+validating curr_idx= 421 sppirx.com
+SMTP Failed for karsnuts.com
+
+Parc Corniche Resort : 
+[]
+validating curr_idx= 422 https://craftydelivers.com
+DNS Failed for https://craftydelivers.com
+DNS Failed for https://craftydelivers.com
+SMTP Failed for https://craftydelivers.com
+
+Spectrum Pharmaceuticals : 
+[]
+validating curr_idx= 423 fisherislandclub.com
+SMTP Failed for blackriflecoffee.com
+
+Unipro Foodservice : 
+[]
+validating curr_idx= 424 entertainmentbenefits.com
+SMTP Failed for fisherislandclub.com
+
+Crafty : 
+[]
+validating curr_idx= 425 bhh.com
+SMTP Failed for entertainmentbenefits.com
+
+Fisher Island Club : 
+[]
+validating curr_idx= 426 yourpie
+DNS Failed for yourpie
+DNS Failed for yourpie
+SMTP Failed for yourpie
+
+Boston Harbor Hotel : 
+[]
+validating curr_idx= 427 susiecakes.com
+CATCHALL for + susiecakes.com
+
+Your Pie Franchising : 
+['info@susiecakes.com']
+validating curr_idx= 428 otonomy.com
+SMTP Failed for sppirx.com
+
+Black Rifle Coffee Company : 
+[]
+validating curr_idx= 429 isinorthamerica.com
+SMTP Failed for sppirx.com
+
+Spectrum Pharmaceuticals : 
+[]
+validating curr_idx= 430 gaffney-kroese.com
+SMTP Failed for otonomy.com
+
+Susiecakes Bakeries : 
+[]
+validating curr_idx= 431 lonelyplanet.com
+SMTP Failed for isinorthamerica.com
+
+Otonomy : 
+[]
+validating curr_idx= 432 patriceandassociates.com
+SMTP Failed for lonelyplanet.com
+
+Gaffney-Kroese Supply Co : 
+[]
+validating curr_idx= 433 ritasice.com
+SMTP Failed for ritasice.com
+
+Patrice And Associates Franchising  : 
+[]
+validating curr_idx= 434 avedro.com
+SMTP Failed for armada.net
+
+Togo'S Eateries : 
+[]
+validating curr_idx= 435 kfcoffee.com
+SMTP Failed for patriceandassociates.com
+
+Lonely Planet : 
+[]
+validating curr_idx= 436 meridinet.com
+SMTP Failed for gaffney-kroese.com
+
+Isi North America,  : 
+[]
+validating curr_idx= 437 http://spreetail.com
+DNS Failed for http://spreetail.com
+DNS Failed for http://spreetail.com
+SMTP Failed for http://spreetail.com
+
+Meridian Enterprises Corporation : 
+[]
+validating curr_idx= 438 hilton
+DNS Failed for hilton
+DNS Failed for hilton
+SMTP Failed for hilton
+
+Spreetail : 
+[]
+validating curr_idx= 439 tn.com
+CATCHALL for + fabtex.com
+
+Southern Hills Country Club : 
+['info@fabtex.com']
+validating curr_idx= 440 7gdistributing.com
+SMTP Failed for kfcoffee.com
+
+Avedro : 
+[]
+validating curr_idx= 441 gogosqueez.com
+SMTP Failed for performancepeople.com
+
+Factory  : 
+[]
+validating curr_idx= 442 califiafarms.com
+SMTP Failed for meridinet.com
+
+K&F Coffee Roasters : 
+[]
+validating curr_idx= 443 bendhsa.com
+SMTP Failed for tn.com
+
+Hilton Phoenix/Mesa : 
+[]
+validating curr_idx= 444 joecoffeecompany.com
+validating curr_idx= 445 customprocessingservices.com
+
+Bend Financial : 
+[]
+validating curr_idx= 446 rljlodgingtrust.com
+SMTP Failed for califiafarms.com
+
+Materne North America - Gogo Squeez : 
+[]
+validating curr_idx= 447 aeriepharma.com
+SMTP Failed for gogosqueez.com
+
+7G Distributing : 
+[]
+validating curr_idx= 448 bonchon.com
+SMTP Failed for bendhsa.com
+
+Califia Farms : 
+[]
+validating curr_idx= 449 ljsilvers.com
+CATCHALL for + avedro.com
+
+Rita'S Italian Ice : 
+['info@avedro.com']
+validating curr_idx= 450 cloverlanddairy.com
+SMTP Failed for bonchon.com
+
+Aerie Pharmaceuticals : 
+[]
+validating curr_idx= 451 templetonsolutions.com
+SMTP Failed for aeriepharma.com
+
+Rlj Lodging Trust : 
+[]
+validating curr_idx= 452 rawjuce.com
+SMTP Failed for ljsilvers.com
+
+Bonchon Franchise  : 
+[]
+validating curr_idx= 453 elicheesecake.com
+SMTP Failed for cloverlanddairy.com
+
+Long John Silver'S : 
+[]
+validating curr_idx= 454 https://reliv.com
+DNS Failed for https://reliv.com
+DNS Failed for https://reliv.com
+SMTP Failed for https://reliv.com
+
+Eli'S Cheesecake : 
+[]
+validating curr_idx= 455 haralambos.com
+
+Cloverland / Greenspring Dairy : 
+['info@templetonsolutions.com']
+validating curr_idx= 456 http://mutualmobile.com
+DNS Failed for http://mutualmobile.com
+DNS Failed for http://mutualmobile.com
+SMTP Failed for http://mutualmobile.com
+
+Haralambos Beverage Co : 
+[]
+validating curr_idx= 457 http://pinehill.com
+DNS Failed for http://pinehill.com
+DNS Failed for http://pinehill.com
+SMTP Failed for http://pinehill.com
+
+Mutual Mobile : 
+[]
+validating curr_idx= 458 marburylaw.com
+SMTP Failed for elicheesecake.com
+
+Raw Juice : 
+[]
+validating curr_idx= 459 drinkneuro.com
+
+Flavor Producers : 
+[]
+validating curr_idx= 460 switchfly.com
+SMTP Failed for drinkneuro.com
+
+The Marbury Law Group, P : 
+[]
+validating curr_idx= 461 http://delfinasf.com
+SMTP Failed for rawjuce.com
+
+Templeton Solutions : 
+[]
+validating curr_idx= 462 burgerfi.com
+DNS Failed for http://delfinasf.com
+DNS Failed for http://delfinasf.com
+SMTP Failed for http://delfinasf.com
+
+Switchfly : 
+[]
+validating curr_idx= 463 https://perspecta.com
+DNS Failed for https://perspecta.com
+DNS Failed for https://perspecta.com
+SMTP Failed for https://perspecta.com
+
+Burgerfi : 
+[]
+validating curr_idx= 464 hospitalitymatches.com
+SMTP Failed for haralambos.com
+
+Reliv International : 
+[]
+validating curr_idx= 465 skytap.com
+SMTP Failed for switchfly.com
+
+Neurobrands : 
+[]
+validating curr_idx= 466 pandologic.com
+SMTP Failed for hospitalitymatches.com
+
+Perspecta : 
+[]
+validating curr_idx= 467 hospitalitymatches.com
+SMTP Failed for skytap.com
+
+Hospitalitymatches.Com : 
+[]
+validating curr_idx= 468 pieology.com
+
+Alta Planning + Design : 
+[]
+validating curr_idx= 469 barflyventures.com
+SMTP Failed for hospitalitymatches.com
+
+Pandologic : 
+[]
+validating curr_idx= 470 gattispizza.com
+SMTP Failed for burgerfi.com
+
+Delfina Restaurant Group : 
+[]
+validating curr_idx= 471 aquahydrate.com
+SMTP Failed for pieology.com
+
+Hospitalitymatches.Com : 
+[]
+validating curr_idx= 472 parccorniche.com
+SMTP Failed for coasthotels.com
+
+Eng Infotech Corp. : 
+[]
+validating curr_idx= 473 sarkujapan.com
+SMTP Failed for 7gdistributing.com
+
+Tuft & Needle : 
+[]
+validating curr_idx= 474 sonomabrands.com
+CATCHALL for + sonomabrands.com
+
+Sarku Japan : 
+['info@sonomabrands.com']
+validating curr_idx= 475 zaxbys.com
+SMTP Failed for pandologic.com
+
+Skytap : 
+[]
+validating curr_idx= 476 http://thedewberrycharleston.com
+DNS Failed for http://thedewberrycharleston.com
+DNS Failed for http://thedewberrycharleston.com
+SMTP Failed for http://thedewberrycharleston.com
+
+Zax  : 
+[]
+validating curr_idx= 477 dmadelivers.com
+SMTP Failed for aquahydrate.com
+
+Mr. Gatti'S Pizza : 
+[]
+validating curr_idx= 478 alto-shaam.com
+SMTP Failed for parccorniche.com
+
+Aquahydrate,  : 
+[]
+validating curr_idx= 479 funcoffeeco.com
+SMTP Failed for zaxbys.com
+
+Sonoma Brands : 
+[]
+validating curr_idx= 480 http://santokugroup.com
+DNS Failed for http://santokugroup.com
+DNS Failed for http://santokugroup.com
+SMTP Failed for http://santokugroup.com
+
+Fundamental Coffee Company : 
+[]
+validating curr_idx= 481 ashfordcom
+DNS Failed for ashfordcom
+DNS Failed for ashfordcom
+SMTP Failed for ashfordcom
+
+Kc Pie : 
+[]
+validating curr_idx= 482 http://vpxsports.com
+DNS Failed for http://vpxsports.com
+DNS Failed for http://vpxsports.com
+SMTP Failed for http://vpxsports.com
+
+Ashford  : 
+[]
+validating curr_idx= 483 hooch.co
+
+Custom Processing Services : 
+['info@rljlodgingtrust.com', 'CGormsen@rljlodgingtrust.com']
+validating curr_idx= 484 fiercecom
+DNS Failed for fiercecom
+DNS Failed for fiercecom
+SMTP Failed for fiercecom
+
+Hooch : 
+[]
+validating curr_idx= 485 fiercecom
+DNS Failed for fiercecom
+DNS Failed for fiercecom
+SMTP Failed for fiercecom
+
+Fierce : 
+[]
+validating curr_idx= 486 specformliners.com
+SMTP Failed for alto-shaam.com
+
+Dma (Distribution Market Advantage) : 
+[]
+validating curr_idx= 487 http://fifthgroup.com
+DNS Failed for http://fifthgroup.com
+DNS Failed for http://fifthgroup.com
+SMTP Failed for http://fifthgroup.com
+
+Spec Formliners : 
+[]
+validating curr_idx= 488 com/index
+DNS Failed for com/index
+DNS Failed for com/index
+SMTP Failed for com/index
+
+Fifth Group Restaurants : 
+[]
+validating curr_idx= 489 beverlyhillscc.com
+SMTP Failed for funcoffeeco.com
+
+Alto-Shaam : 
+[]
+validating curr_idx= 490 labelmaster.com
+SMTP Failed for barflyventures.com
+
+Pieology : 
+[]
+validating curr_idx= 491 usinger.com
+SMTP Failed for hooch.co
+
+Vital Pharmaceuticals,  Vpx : 
+[]
+validating curr_idx= 492 napleshotelgroup.com
+SMTP Failed for usinger.com
+
+Labelmaster : 
+[]
+validating curr_idx= 493 vmghealth.com
+
+Beverly Hills Country Club : 
+['contact@labelmaster.com', 'MFuentes@labelmaster.com']
+validating curr_idx= 494 whg.com
+SMTP Failed for uniprofoodservice.com
+
+Fabtex : 
+[]
+validating curr_idx= 495 drinkworks.com
+SMTP Failed for specformliners.com
+
+Fierce : 
+[]
+validating curr_idx= 496 drinkworks.com
+SMTP Failed for beverlyhillscc.com
+
+Rlj Lodging Trust : 
+[]
+validating curr_idx= 497 halontax.com
+SMTP Failed for marburylaw.com
+
+Pine Hill Group : 
+[]
+validating curr_idx= 498 thisbarsaveslives.com
+SMTP Failed for drinkworks.com
+
+Westmont Hospitality Group : 
+[]
+validating curr_idx= 499 stellaandchewys.com
+SMTP Failed for napleshotelgroup.com
+
+Fred Usinger : 
+[]
+validating curr_idx= 500 bcc1898.com
+
+Naples Hotel Group : 
+[]
+validating curr_idx= 501 mcneillhotels.com
+SMTP Failed for drinkworks.com
+
+Drinkworks : 
+[]
+validating curr_idx= 502 energous.com
+SMTP Failed for halontax.com
+
+Drinkworks : 
+[]
+validating curr_idx= 503 sakaralife.com
+SMTP Failed for thisbarsaveslives.com
+
+Halon Tax : 
+[]
+validating curr_idx= 504 cardlytics.com
+SMTP Failed for bhh.com
+
+Entertainment Benefits Group : 
+[]
+validating curr_idx= 505 parkertaxpublishing.com
+SMTP Failed for sakaralife.com
+
+Energous Corporation : 
+[]
+validating curr_idx= 506 seattlefish.com
+SMTP Failed for bcc1898.com
+
+Stella & Chewy'S : 
+[]
+validating curr_idx= 507 dairyqueen.com
+DNS Failed for dairyqueen.com
+DNS Failed for dairyqueen.com
+SMTP Failed for dairyqueen.com
+
+Seattle Fish Company : 
+[]
+validating curr_idx= 508 wndecpa.com
+SMTP Failed for sarkujapan.com
+
+Parc Corniche Resort : 
+[]
+validating curr_idx= 509 qualityfrozenfoods.com
+SMTP Failed for whg.com
+
+Vmg Health : 
+[]
+validating curr_idx= 510 fullsailbrewing.com
+SMTP Failed for mcneillhotels.com
+
+Baltimore Country Club : 
+[]
+validating curr_idx= 511 wingstop.com
+SMTP Failed for energous.com
+
+Mcneill Hotel Company : 
+[]
+validating curr_idx= 512 nathansfamous.com
+SMTP Failed for seattlefish.com
+
+Parker Tax Pro Library : 
+[]
+validating curr_idx= 513 doximity.com
+SMTP Failed for qualityfrozenfoods.com
+
+White Nelson Diehl Evans  : 
+[]
+validating curr_idx= 514 greenislandcc.org
+validating curr_idx= 515 thistle.co
+SMTP Failed for fullsailbrewing.com
+
+Quality Frozen Foods  : 
+[]
+validating curr_idx= 516 quantumstorage.com
+SMTP Failed for cardlytics.com
+
+Sakara Life : 
+[]
+validating curr_idx= 517 gogosqueez.com
+
+Thistle : 
+['info@quantumstorage.com']
+validating curr_idx= 518 mymomochi.com
+SMTP Failed for doximity.com
+
+Nathan'S Famous : 
+[]
+validating curr_idx= 519 visterracom
+SMTP Failed for gattispizza.com
+
+Barfly Ventures : 
+[]
+validating curr_idx= 520 tropicalfoods.com
+DNS Failed for visterracom
+DNS Failed for visterracom
+SMTP Failed for visterracom
+
+The Mochi Ice Cream Company : 
+[]
+validating curr_idx= 521 visitdenver.com
+SMTP Failed for wndecpa.com
+
+Dairy Queen : 
+[]
+validating curr_idx= 522 mountainridgecc.org
+SMTP Failed for greenislandcc.org
+
+Doximity : 
+[]
+validating curr_idx= 523 deenmeat.com
+SMTP Failed for thistle.co
+
+Green Island Country Club : 
+[]
+validating curr_idx= 524 secondcity.com
+SMTP Failed for parkertaxpublishing.com
+
+Cardlytics : 
+[]
+validating curr_idx= 525 sunkist.com
+DNS Failed for sunkist.com
+DNS Failed for sunkist.com
+SMTP Failed for sunkist.com
+
+The Second City : 
+[]
+validating curr_idx= 526 huhot.com
+
+Full Sail Brewing : 
+[]
+validating curr_idx= 527 http://tacojohns.com
+DNS Failed for http://tacojohns.com
+DNS Failed for http://tacojohns.com
+SMTP Failed for http://tacojohns.com
+
+Huhot Mongolian Grill : 
+[]
+validating curr_idx= 528 charliebrowns.com
+SMTP Failed for visitdenver.com
+
+Tropical Foods : 
+[]
+validating curr_idx= 529 https://getbase.com
+SMTP Failed for tropicalfoods.com
+
+Visterra  : 
+[]
+validating curr_idx= 530 cityofaspen.com
+DNS Failed for https://getbase.com
+DNS Failed for https://getbase.com
+SMTP Failed for https://getbase.com
+
+Charlie Brown'S Steak House : 
+[]
+validating curr_idx= 531 http://ezlinksgolf.com
+DNS Failed for http://ezlinksgolf.com
+DNS Failed for http://ezlinksgolf.com
+SMTP Failed for http://ezlinksgolf.com
+
+City Of Aspen : 
+[]
+validating curr_idx= 532 klements.com
+SMTP Failed for deenmeat.com
+
+Mountain Ridge Country Club : 
+[]
+validating curr_idx= 533 tapiocaexpress.com
+SMTP Failed for secondcity.com
+
+Deen Meat And Cooked Foods : 
+[]
+validating curr_idx= 534 tapiocaexpress.com
+SMTP Failed for customprocessingservices.com
+
+Joe Coffee Co. : 
+[]
+validating curr_idx= 535 tapiocaexpress.com
+SMTP Failed for gogosqueez.com
+
+Quantum Storage Systems : 
+[]
+validating curr_idx= 536 cascadecoffee.com
+SMTP Failed for huhot.com
+
+Sunkist Growers : 
+[]
+validating curr_idx= 537 lasvegaspaving.com
+SMTP Failed for charliebrowns.com
+
+Taco John'S International : 
+[]
+SMTP Failed for mymomochi.com
+
+Materne North America - Gogo Squeez : 
+[]
+SMTP Failed for nathansfamous.com
+
+Wingstop Restaurants : 
+[]
+SMTP Failed for klements.com
+
+Ezlinks Golf  : 
+[]
+SMTP Failed for mountainridgecc.org
+
+Visit Denver, The Convention & Visitors Bureau : 
+[]
+SMTP Failed for tapiocaexpress.com
+
+Klement Sausage Co : 
+[]
+SMTP Failed for tapiocaexpress.com
+
+Tapioca Express : 
+[]
+
+Base Crm : 
+['manager@cityofaspen.com']
+SMTP Failed for cascadecoffee.com
+
+Tapioca Express : 
+[]
+SMTP Failed for tapiocaexpress.com
+
+Tapioca Express : 
+[]
+SMTP Failed for lasvegaspaving.com
+
+Cascade Coffee : 
+[]
+SMTP Failed for stellaandchewys.com
+
+This Bar Saves Lives : 
+[]
+
+The Dewberry Charleston : 
+[]
