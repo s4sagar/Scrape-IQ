@@ -1,0 +1,2 @@
+  File "email_finder.py", line 13
+SyntaxError: Non-ASCII character '\xe5' in file email_finder.py on line 14, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
